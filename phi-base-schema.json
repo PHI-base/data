@@ -129,7 +129,10 @@
     {
       "name": "targetTaxonId",
       "titles": "Host_NCBI_Taxonomy_ID",
-      "datatype": "string"
+      "datatype": {
+        "base" : "string",
+        "valueUrl" : "http://purl.obolibrary.org/obo/NCBITaxon_{targetTaxonId}"
+      }
     },
     {
       "name": "targetTaxonName",
