@@ -105,7 +105,8 @@
     },
     {
       "name": "Pathogen_NCBI_strain_Taxonomy_ID",
-      "titles": "Pathogen_NCBI_strain_Taxonomy_ID"
+      "titles": "Pathogen_NCBI_strain_Taxonomy_ID",
+      "datatype": "string"
     },
     {
       "name": "Experimental_strain",
