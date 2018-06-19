@@ -104,12 +104,8 @@
       "datatype": "string"
     },
     {
-      "name": "sourceTaxonId",
-      "titles": "Pathogen_NCBI_strain_Taxonomy_ID",
-      "datatype": {
-        "base" : "string",
-        "valueUrl" : "http://purl.obolibrary.org/obo/NCBITaxon_{targetTaxonId}"
-      }
+      "name": "Pathogen_NCBI_strain_Taxonomy_ID",
+      "titles": "Pathogen_NCBI_strain_Taxonomy_ID"
     },
     {
       "name": "Experimental_strain",
