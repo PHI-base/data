@@ -1,0 +1,13 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
+  "tables": [
+    { "url": "releases/phi-base_v4-5_2018-05-15.csv",
+      "dcterms:bibliographicCitation": "Urban M, Cuzick A, Rutherford K, Irvine A, Pedro H, Pant R, Sadanadan V, Khamari L, Billal S, Mohanty S, Hammond-Kosack KE. PHI-base: a new interface and further additions for the multi-species pathogen-host interactions database. Nucleic Acids Res. 2017 Jan 4;45(D1):D604-D610. doi: 10.1093/nar/gkw1089. Epub 2016 Dec 3. PMID:27915230",
+      "tableSchema": "phi-base-schema.json",
+      "headerRowCount": 2,
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002556",
+      "interactionTypeName": "pathogenOf"
+    }
+  ]
+}
