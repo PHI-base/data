@@ -1,4 +1,5 @@
 ChemicalName	FracCode	ChemicalType	ChebiId	CasId	Description
+test1	test2	test3	test4	test5	test6
 Abamectin	na	anti-infective	CHEBI:39214	71751-41-2	Antimicrobial agent. A substance that kills or slows the growth of microorganisms, including bacteria, viruses, fungi and protozoans. Antibiotic nematicide. Antibiotic insecticide. Macrolide insecticide. Block the transmission of electrical activity in invertebrate nerve and muscle cells mostly by enhancing the effects of glutamate at the invertebrate-specific glutamate-gated chloride channel, with minor effects on gamma-aminobutyric acid receptors.
 Actinomycin D	na	anti-infective	CHEBI:27666	50-78-0	Antimicrobial agent. A substance that kills or slows the growth of microorganisms, including bacteria, viruses, fungi and protozoans.
 Alexidine	na	anti-infective	CHEBI:53661	22573-93-9	Antibacterial agent. A substance that kills or slows the growth of bacteria. Alexidine reduces the production of extracellular polysaccharide, thereby disrupting mature biofilms and reducing adhesion of bacteria on surfaces.
