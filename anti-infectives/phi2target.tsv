@@ -1,0 +1,35 @@
+PHI_MolConn_ID	Protein ID	Gene	Pathogen species	Disease	FracCode	Gene Function
+PHI:820	P41388	beta-tubulin	Venturia inaequalis	Apple Scab	1	beta-tubulin
+PHI:821	Q7Z7T9	tub2	Monilinia fructicola	Brown Rot Of Stone Fruit	1	beta-tubulin
+PHI:822	O42772	Ip	Zymoseptoria tritici	Septoria Leaf Blotch	7	succinate dehydrogenase subunit
+PHI:823	P53376	beta-tubulin	Rhynchosporium commune	Leaf Blotch Of Barley	1	beta-tubulin
+PHI:824	Q75WC5	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:824	Q75WC5	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:824	Q75WC5	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:849	Q75WC1	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:849	Q75WC1	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:850	Q75WC2	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:850	Q75WC2	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:851	Q75WC3	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:851	Q75WC3	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:852	Q75WC4	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:852	Q75WC4	GyrA	Burkholderia glumae	Bacterial Grain Rot	31	DNA gyrase (bacterial topoisomerase II)
+PHI:825	Q4JEX9	SE	Trichophyton rubrum	Dermatophytosis	18	Squalene epoxidase
+PHI:826	Q1AMT8	SE	Trichophyton rubrum	Dermatophytosis	18	Squalene epoxidase
+PHI:828	Q6QNB5	ERG1 (ERGA)	Aspergillus fumigatus	Aspergillosis	18	Squalene epoxidase
+PHI:829	Q6QNB5	ERG1 (ERGA)	Aspergillus fumigatus	Aspergillosis	18	Squalene epoxidase
+PHI:830	Q27PP1	ERGA	Aspergillus nidulans	Aspergillosis	18	Squalene epoxidase
+PHI:835	Q6X9S4	ubiquinol oxidase	Zymoseptoria tritici	Septoria Leaf Blotch	11	complex III cytochrome bc1
+PHI:836	Q9B334	ubiquinol oxidase	Blumeria graminis	Wheat Powdery Mildew	11	complex III cytochrome bc1
+PHI:837	Q8X215	os-1 / bos1 / barA	Botrytis cinerea	Grey Mould	2	two component histidine kinase
+PHI:838	A4ULI4	erg11/cyp51	Zymoseptoria tritici	Septoria Leaf Blotch	3	eburicol 14 alpha-demethylase
+PHI:839	A4ULI5	erg11/cyp51	Zymoseptoria tritici	Septoria Leaf Blotch	3	eburicol 14 alpha-demethylase
+PHI:840	A4ULI6	erg11/cyp51	Zymoseptoria tritici	Septoria Leaf Blotch	3	eburicol 14 alpha-demethylase
+PHI:841	A4ULI7	erg11/cyp51	Zymoseptoria tritici	Septoria Leaf Blotch	3	eburicol 14 alpha-demethylase
+PHI:842	A4ULI8	erg11/cyp51	Zymoseptoria tritici	Septoria Leaf Blotch	3	eburicol 14 alpha-demethylase
+PHI:843	A4ULI9	erg11/cyp51	Zymoseptoria tritici	Septoria Leaf Blotch	3	eburicol 14 alpha-demethylase
+PHI:844	A4ULJ0	erg11/cyp51	Zymoseptoria tritici	Septoria Leaf Blotch	3	eburicol 14 alpha-demethylase
+PHI:845	A4ULJ1	erg11/cyp51	Zymoseptoria tritici	Septoria Leaf Blotch	3	eburicol 14 alpha-demethylase
+PHI:846	A4ULJ2	erg11/cyp51	Zymoseptoria tritici	Septoria Leaf Blotch	3	eburicol 14 alpha-demethylase
+PHI:847	Q6F4M1	GyrA	Flavobacterium psychrophilum 	Bacterial Cold-Water Disease 	31	DNA gyrase (bacterial topoisomerase II)
+PHI:848	Q6F4K2	GyrA	Flavobacterium psychrophilum 	Bacterial Cold-Water Disease 	31	DNA gyrase (bacterial topoisomerase II)
