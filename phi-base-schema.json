@@ -1,16 +1,6 @@
 {
   "columns": [
     {
-      "name": "Curation_comments_temp",
-      "titles": "Curation_comments_temp",
-      "datatype": "string"
-    },
-    {
-      "name": "X_to_do_",
-      "titles": "X_to_do_",
-      "datatype": "string"
-    },
-    {
       "name": "Record.ID",
       "titles": "Record.ID",
       "datatype": "string"
@@ -21,78 +11,78 @@
       "datatype": "string"
     },
     {
-      "name": "IdentifierTypeOfProteinID",
-      "titles": "IdentifierTypeOfProteinID",
+      "name": "Protein ID source",
+      "titles": "Protein ID source",
       "datatype": "string"
     },
     {
-      "name": "ProteinID",
-      "titles": "ProteinID",
+      "name": "Protein ID",
+      "titles": "Protein ID",
       "datatype": "string"
     },
     {
-      "name": "IdentifierTypeOfGeneLocusID",
-      "titles": "IdentifierTypeOfGeneLocusID",
+      "name": "Gene ID source",
+      "titles": "Gene ID source",
       "datatype": "string"
     },
     {
-      "name": "GeneLocusID",
-      "titles": "GeneLocusID",
+      "name": "Gene ID",
+      "titles": "Gene ID",
       "datatype": "string"
     },
     {
-      "name": "AA.sequence..no.EMBL.",
-      "titles": "AA.sequence..no.EMBL.",
+      "name": "AA sequence",
+      "titles": "AA sequence",
       "datatype": "string"
     },
     {
-      "name": "NT.sequence..no.EMBL.",
-      "titles": "NT.sequence..no.EMBL.",
+      "name": "NT sequence",
+      "titles": "NT sequence",
       "datatype": "string"
     },
     {
-      "name": "Genomic.sequence.providing.strain",
-      "titles": "Genomic.sequence.providing.strain",
+      "name": "Sequence Strain",
+      "titles": "Sequence Strain",
       "datatype": "string"
     },
     {
-      "name": "Gene_name",
-      "titles": "Gene_name",
+      "name": "Gene",
+      "titles": "Gene",
       "datatype": "string"
     },
     {
-      "name": "Genome.location",
-      "titles": "Genome.location",
+      "name": "Chr location",
+      "titles": "Chr location",
       "datatype": "string"
     },
     {
-      "name": "Specific.modification.s.to.the.targeted.protein.or.promoter",
-      "titles": "Specific.modification.s.to.the.targeted.protein.or.promoter",
+      "name": "Gene/Protein modification",
+      "titles": "Gene/Protein modification",
       "datatype": "string"
     },
     {
-      "name": "Accession.ID.for.the.modified.genetic.element",
-      "titles": "Accession.ID.for.the.modified.genetic.element",
+      "name": "Modified gene/protein Id",
+      "titles": "Modified gene/protein Id",
       "datatype": "string"
     },
     {
-      "name": "Known.interacting.protein.s..in.the.pathogen",
-      "titles": "Known.interacting.protein.s..in.the.pathogen",
+      "name": "Interacting partner(s)",
+      "titles": "Interacting partner(s)",
       "datatype": "string"
     },
     {
-      "name": "Interacting.protein...locus.ID",
-      "titles": "Interacting.protein...locus.ID",
+      "name": "Interacting partner(s) Id",
+      "titles": "Interacting partner(s) Id",
       "datatype": "string"
     },
     {
-      "name": "Multiple_mutation",
-      "titles": "Multiple_mutation",
+      "name": "Multiple mutation",
+      "titles": "Multiple mutation",
       "datatype": "string"
     },
     {
       "name": "sourceTaxonId",
-      "titles": "Pathogen_NCBI_species_Taxonomy.ID",
+      "titles": "Pathogen ID",
       "datatype": {
         "base" : "string",
         "valueUrl" : "http://purl.obolibrary.org/obo/NCBITaxon_{sourceTaxonId}"
@@ -100,32 +90,32 @@
     },
     {
       "name": "sourceTaxonName",
-      "titles": "Pathogen_species",
+      "titles": "Pathogen species",
       "datatype": "string"
     },
     {
-      "name": "Pathogen_NCBI_strain_Taxonomy_ID",
-      "titles": "Pathogen_NCBI_strain_Taxonomy_ID",
+      "name": "Pathogen strain ID",
+      "titles": "Pathogen strain ID",
       "datatype": "string"
     },
     {
-      "name": "Experimental_strain",
+      "name": "Pathogen strain",
       "titles": "Experimental_strain",
       "datatype": "string"
     },
     {
-      "name": "Disease_name",
-      "titles": "Disease_name",
+      "name": "Disease",
+      "titles": "Disease",
       "datatype": "string"
     },
     {
-      "name": "Host_descripton",
-      "titles": "Host_descripton",
+      "name": "Host description",
+      "titles": "Host description",
       "datatype": "string"
     },
     {
       "name": "targetTaxonId",
-      "titles": "Host_NCBI_Taxonomy_ID",
+      "titles": "Host ID",
       "datatype": {
         "base" : "string",
         "valueUrl" : "http://purl.obolibrary.org/obo/NCBITaxon_{targetTaxonId}"
@@ -133,37 +123,37 @@
     },
     {
       "name": "targetTaxonName",
-      "titles": "Experimental_host_species",
+      "titles": "Host species",
       "datatype": "string"
     },
     {
-      "name": "Host_strain_genotype..MOVED.this.to.new.col.03.10.2016_or.cultivar_taxonomy_ID_NCBI.",
-      "titles": "Host_strain_genotype..MOVED.this.to.new.col.03.10.2016_or.cultivar_taxonomy_ID_NCBI.",
+      "name": "Host strain",
+      "titles": "Host strain",
       "datatype": "string"
     },
     {
-      "name": "HostGenotype_definedGene.of.interest",
-      "titles": "HostGenotype_definedGene.of.interest",
+      "name": "Host genotype",
+      "titles": "Host genotype",
       "datatype": "string"
     },
     {
-      "name": "HostGenotype_definedGene.of.interest._AccessionID",
-      "titles": "HostGenotype_definedGene.of.interest._AccessionID",
+      "name": "Host genotype-Id",
+      "titles": "Host genotype-Id",
       "datatype": "string"
     },
     {
-      "name": "tissue_type",
-      "titles": "tissue_type",
+      "name": "Tissue",
+      "titles": "Tissue",
       "datatype": "string"
     },
     {
-      "name": "Function",
-      "titles": "Function",
+      "name": "Gene Function",
+      "titles": "Gene Function",
       "datatype": "string"
     },
     {
-      "name": "GO_annotation",
-      "titles": "GO_annotation",
+      "name": "GO annotation",
+      "titles": "GO annotation",
       "datatype": "string"
     },
     {
@@ -172,23 +162,23 @@
       "datatype": "string"
     },
     {
-      "name": "Pathway_secretion_systems",
-      "titles": "Pathway_secretion_systems",
+      "name": "Pathway",
+      "titles": "Pathway",
       "datatype": "string"
     },
     {
-      "name": "Phenotype_of_mutant",
-      "titles": "Phenotype_of_mutant",
+      "name": "Mutant Phenotype",
+      "titles": "Mutant Phenotype",
       "datatype": "string"
     },
     {
-      "name": "Mating_defect_prior_to_penetration",
-      "titles": "Mating_defect_prior_to_penetration",
+      "name": "Mating defect",
+      "titles": "Mating defect",
       "datatype": "string"
     },
     {
-      "name": "Pre_penetration_defect",
-      "titles": "Pre_penetration_defect",
+      "name": "Prepenetration defect",
+      "titles": "Prepenetration defect",
       "datatype": "string"
     },
     {
@@ -197,101 +187,101 @@
       "datatype": "string"
     },
     {
-      "name": "Post_penetration_defect",
-      "titles": "Post_penetration_defect",
+      "name": "Postpenetration defect",
+      "titles": "Postpenetration defect",
       "datatype": "string"
     },
     {
-      "name": "Disease_development_macroscopically_visible._RENAMED_Interaction.Macroscopic.pathogen.disease.development.in.host",
-      "titles": "Disease_development_macroscopically_visible._RENAMED_Interaction.Macroscopic.pathogen.disease.development.in.host",
+      "name": "Disease manifestation",
+      "titles": "Disease manifestation",
       "datatype": "string"
     },
     {
-      "name": "Vegetative_spores",
-      "titles": "Vegetative_spores",
+      "name": "Vegetative spores",
+      "titles": "Vegetative spores",
       "datatype": "string"
     },
     {
-      "name": "Sexual_spores",
-      "titles": "Sexual_spores",
+      "name": "Sexual spores",
+      "titles": "Sexual spores",
       "datatype": "string"
     },
     {
-      "name": "In_vitro_growth",
-      "titles": "In_vitro_growth",
+      "name": "Invitro growth",
+      "titles": "Invitro growth",
       "datatype": "string"
     },
     {
-      "name": "Spore_germination",
-      "titles": "Spore_germination",
+      "name": "Spore germination",
+      "titles": "Spore germination",
       "datatype": "string"
     },
     {
-      "name": "Essential_gene_Lethal_knockout",
-      "titles": "Essential_gene_Lethal_knockout",
+      "name": "Essential gene",
+      "titles": "Essential gene",
       "datatype": "string"
     },
     {
-      "name": "Inducer",
-      "titles": "Inducer",
+      "name": "Gene inducer",
+      "titles": "Gene inducer",
       "datatype": "string"
     },
     {
-      "name": "ChemicalAccession..Chebi.CAS.",
-      "titles": "ChemicalAccession..Chebi.CAS.",
+      "name": "Gene inducer Id",
+      "titles": "Gene inducer Id",
       "datatype": "string"
     },
     {
-      "name": "Tested_First_Host_target",
-      "titles": "Tested_First_Host_target",
+      "name": "Host target",
+      "titles": "Host target",
       "datatype": "string"
     },
     {
-      "name": "TestedHostTarget_AccessionID",
-      "titles": "TestedHostTarget_AccessionID",
+      "name": "Host target Id",
+      "titles": "Host target Id",
       "datatype": "string"
     },
     {
-      "name": "Interaction.phenotype._.RENAMED_.Interaction..Disease.outcome",
-      "titles": "Interaction.phenotype._.RENAMED_.Interaction..Disease.outcome",
+      "name": "Interaction phenotype",
+      "titles": "Interaction phenotype",
       "datatype": "string"
     },
     {
-      "name": "Host_response._.RENAMED_.Interaction..Macro.microscopic.host.reponse.to.pathogen",
-      "titles": "Host_response._.RENAMED_.Interaction..Macro.microscopic.host.reponse.to.pathogen",
+      "name": "Host response",
+      "titles": "Host response",
       "datatype": "string"
     },
     {
-      "name": "experimental_evidence",
-      "titles": "experimental_evidence",
+      "name": "eExp. Technique-stable",
+      "titles": "Exp. Technique-stable",
       "datatype": "string"
     },
     {
-      "name": "Transient.Assay.Experimental.Evidence",
-      "titles": "Transient.Assay.Experimental.Evidence",
+      "name": "Exp. Technique-transient",
+      "titles": "Exp. Technique-transient",
       "datatype": "string"
     },
     {
-      "name": "Species_Expert",
-      "titles": "Species_Expert",
+      "name": "Species expert",
+      "titles": "Species expert",
       "datatype": "string"
     },
     {
-      "name": "Entered_by",
-      "titles": "Entered_by",
+      "name": "Entered by",
+      "titles": "Entered by",
       "datatype": "string"
     },
     {
       "name": "referenceUrl",
-      "titles": "Literature_ID",
+      "titles": "PMID",
       "datatype": {
         "base" : "long",
         "valueUrl" : "https://www.ncbi.nlm.nih.gov/pubmed/{referenceUrl}"
       }
     },
     {
-      "name": "Literature_source",
-      "titles": "Literature_source",
+      "name": "Ref. Source",
+      "titles": "Ref. Source",
       "datatype": "string"
     },
     {
@@ -301,12 +291,12 @@
     },
     {
       "name": "referenceCitation",
-      "titles": "Full_citation",
+      "titles": "Ref. detail",
       "datatype": "string"
     },
     {
-      "name": "Author_email",
-      "titles": "Author_email",
+      "name": "Author email",
+      "titles": "Author email",
       "datatype": "string"
     },
     {
@@ -315,128 +305,33 @@
       "datatype": "string"
     },
     {
-      "name": "Reference",
-      "titles": "Reference",
+      "name": "Author reference",
+      "titles": "Author reference",
       "datatype": "string"
     },
     {
-      "name": "Year_published",
-      "titles": "Year_published",
+      "name": "Year",
+      "titles": "Year",
       "datatype": "string"
     },
     {
-      "name": "Curation.details",
-      "titles": "Curation.details",
+      "name": "Curation details",
+      "titles": "Curation details",
       "datatype": "string"
     },
     {
-      "name": "",
-      "titles": "",
+      "name": "File name",
+      "titles": "File name",
       "datatype": "string"
     },
     {
-      "name": "",
-      "titles": "",
+      "name": "Batch no.",
+      "titles": "Batch no.",
       "datatype": "string"
     },
     {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
-      "datatype": "string"
-    },
-    {
-      "name": "",
-      "titles": "",
+      "name": "Curation date",
+      "titles": "Curation date",
       "datatype": "string"
     }
   ]
