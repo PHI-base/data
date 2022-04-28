@@ -12,10 +12,11 @@ The data has the following columns:
     appears in PHI-base.
   * **strain**: the primary name of the strain.
   * **synonyms**: any synonyms of the primary strain name, as curated in PHI-base.
+    Synonym names are comma-separated.
   * **cross_references**: cross-references to identifiers from other biological 
     databases or ontologies. This column is primarily used for cross-references to 
-    cell lines in host species. Currently, the following types of identifiers are 
-    used:
+    cell lines in host species. The identifiers are comma-separated. Currently,
+    the following types of identifiers are used:
     * Identifiers that start with **CVCL_** are cross-references to [Cellosaurus][2].
     * Identifiers that start with **BTO:** are cross-references to the 
       [Brenda Tissue Ontology][3].
