@@ -2,188 +2,188 @@
 !Project_name: PHI-base
 !URL: http://www.phi-base.org/
 !Contact Email: contact@phi-base.org
-UniProtKB	A0A385MIS5	Chi		GO:0140423	PMID:30220500	IMP		P	Chitinase-like effector		protein	taxon:153609	20190121	PHI-base	
-UniProtKB	A0A0W0EUL3	WG66_19681		GO:0052034	PMID:30220500	IMP		P	Putative chitinase		protein	taxon:221103	20190930	PHI-base	
-UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0052034	PMID:21467214	IDA		P	Uncharacterized protein		protein	taxon:1047171	20190930	PHI-base	
-UniProtKB	F9XHX3	MYCGRDRAFT_105487	NOT	GO:0052034	PMID:21467214	IDA		P	LysM domain-containing protein		protein	taxon:1047171	20190930	PHI-base	
-UniProtKB	D0MVC9	EPI1		GO:0140403	PMID:15096512	IDA		P	Extracellular protease inhibitor 1	PITG_22681	protein	taxon:4787	20200424	PHI-base	
-UniProtKB	O04678	P69B		GO:0045087	PMID:15096512	EXP		P	Subtilisin-like protease	p69b	protein	taxon:4081	20200427	PHI-base	occurs_in(apoplast),part_of(GO:0002239)
-UniProtKB	A0A3B6RF20	A0A3B6RF20_WHEAT		GO:0002752	PMID:24073880	IMP		P	Protein kinase domain-containing protein		protein	taxon:4565	20191004	PHI-base	
-UniProtKB	A0A076VC28	CEBiP		GO:0002752	PMID:24073880	EXP		P	Chitin elicitor binding protein		protein	taxon:4565	20191004	PHI-base	
-UniProtKB	F9XHX3	MYCGRDRAFT_105487		GO:0052034	PMID:24073880	EXP		P	LysM domain-containing protein		protein	taxon:1047171	20191004	PHI-base	
-UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0052034	PMID:24073880	EXP		P	Uncharacterized protein		protein	taxon:1047171	20191004	PHI-base	
-UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0140423	PMID:24073880	EXP		P	Uncharacterized protein		protein	taxon:1047171	20200713	PHI-base	
-UniProtKB	I1S9X9	ATG9		GO:0016236	PMID:30044782	IMP		P	Autophagy-related protein 9	FGRAMPH1_01T26133	protein	taxon:5518	20190111	PHI-base	part_of(GO:0006995)
-UniProtKB	A0A2H3HA93	FGRA07_01288		GO:0016241	PMID:30044782	IMP		P	Ras-like protein Rab7	MDC_LOCUS215074	protein	taxon:5518	20191106	PHI-base	
-UniProtKB	I1S9X9	ATG9		GO:1905691	PMID:30044782	IMP		P	Autophagy-related protein 9	FGRAMPH1_01T26133	protein	taxon:5518	20191106	PHI-base	part_of(GO:0006995)
-UniProtKB	F4J339	RPP1		GO:0034052	PMID:20601497	IMP		P	Probable disease resistance protein RPP1	At3g44480|F14L2_30	protein	taxon:3702	20181114	PHI-base	
-UniProtKB	F4J339	RPP1		GO:0002758	PMID:20601497	IMP		P	Probable disease resistance protein RPP1	At3g44480|F14L2_30	protein	taxon:3702	20191022	PHI-base	part_of(GO:0034052),part_of(GO:0002229)
-UniProtKB	M4B6G6	ATR1		GO:0140418	PMID:20601497	IMP		P	Avirulence protein ATR1	ATR1-NdWsB	protein	taxon:272952	20200122	PHI-base	
-UniProtKB	A0A1D6GNR3	KWL1		GO:0051851	PMID:30651637	IDA		P	Kiwellin-1	ZEAMMB73_Zm00001d013945	protein	taxon:4577	20190125	PHI-base	
-UniProtKB	A0A0D1DWQ2	CMU1		GO:0140502	PMID:30651637	IDA		P	Secreted chorismate mutase	UMAG_05731	protein	taxon:5270	20200717	PHI-base	
-UniProtKB	F9X6V3	MYCGRDRAFT_91615		GO:0018215	PMID:30459352	IMP		P	Putative phosphopantetheinyl transferase		protein	taxon:1047171	20190927	PHI-base	
-UniProtKB	F9X2M4	NRPS1		GO:0019290	PMID:30459352	TAS		P	Putative Non-ribosomal peptide synthetase	MYCGRDRAFT_36951	protein	taxon:1047171	20190927	PHI-base	
-UniProtKB	F9X701	MYCGRDRAFT_39611		GO:0009085	PMID:30459352	IMP		P	AAR2 domain-containing protein		protein	taxon:1047171	20190927	PHI-base	
-UniProtKB	F9XMW3	PKS1		GO:0042438	PMID:30459352	IMP		P	Non-reducing polyketide synthase PKS1	MYCGRDRAFT_96592	protein	taxon:1047171	20190927	PHI-base	
-UniProtKB	F9XFI6	PKS7		GO:0030639	PMID:30459352	TAS		P	Polyketide synthase	MYCGRDRAFT_45348	protein	taxon:1047171	20190927	PHI-base	
-UniProtKB	F9XQ63	PKS8		GO:0030639	PMID:30459352	TAS		P	Polyketide synthase	MYCGRDRAFT_51018	protein	taxon:1047171	20190927	PHI-base	
-UniProtKB	F9XD62	MYCGRDRAFT_93828		GO:0048023	PMID:30459352	IMP		P	HTH APSES-type domain-containing protein		protein	taxon:1047171	20191105	PHI-base	
-UniProtKB	F9XD62	MYCGRDRAFT_93828		GO:0045944	PMID:30459352	EXP		P	HTH APSES-type domain-containing protein		protein	taxon:1047171	20210203	PHI-base	has_regulation_target(UniProtKB:F9X6V3)
-UniProtKB	A9JX75	Tox1		GO:0080185	PMID:22241993	EXP		P	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20190430	PHI-base	
-UniProtKB	F9WWD1	GT2		GO:0030448	PMID:29020037	IMP		P	Type 2 glycosyltransferase	MYCGRDRAFT_65552	protein	taxon:1047171	20190614	PHI-base	
-UniProtKB	I1RB03	GT2		GO:0030448	PMID:29020037	IMP		P	Type 2 glycosyltransferase	FG00702|FGRAMPH1_01T01771	protein	taxon:5518	20191106	PHI-base	
-UniProtKB	I1RB03	GT2	NOT	GO:0075201	PMID:29020037	IMP		P	Type 2 glycosyltransferase	FG00702|FGRAMPH1_01T01771	protein	taxon:5518	20200302	PHI-base	
-UniProtKB	I1RRW0	PEX4		GO:0016557	PMID:30603875	EXP		P	Ubiquitin-conjugating enzyme E2 PEX4	FG06857|FGRAMPH1_01T23345	protein	taxon:5518	20190515	PHI-base	
-UniProtKB	I1RRW0	PEX4		GO:0016562	PMID:30603875	TAS		P	Ubiquitin-conjugating enzyme E2 PEX4	FG06857|FGRAMPH1_01T23345	protein	taxon:5518	20190520	PHI-base	
-UniProtKB	G4N0Z0	PMK1		GO:0075018	PMID:29567712	IDA		P	Mitogen-activated protein kinase PMK11	MGG_09565	protein	taxon:318829	20190729	PHI-base	
-UniProtKB	G4N0Z0	PMK1		GO:0000921	PMID:29567712	IMP		P	Mitogen-activated protein kinase PMK11	MGG_09565	protein	taxon:318829	20190729	PHI-base	
-UniProtKB	G4N0Z0	PMK1		GO:0030448	PMID:29567712	IMP		P	Mitogen-activated protein kinase PMK11	MGG_09565	protein	taxon:318829	20190801	PHI-base	
-UniProtKB	G4N0Z0	PMK1		GO:0140649	PMID:29567712	IMP		P	Mitogen-activated protein kinase PMK11	MGG_09565	protein	taxon:318829	20191105	PHI-base	occurs_in(GO:0044219)
-UniProtKB	G4MY67	RAM1		GO:0018343	PMID:31250536	IMP		P	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20190817	PHI-base	
-UniProtKB	G4MY67	RAM1		GO:0061951	PMID:31250536	IMP		P	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20191105	PHI-base	
-UniProtKB	P54291	rhlI		GO:0120218	PMID:28715477	TAS		P	Acyl-homoserine-lactone synthase	vsmI|PA3476	protein	taxon:287	20190819	PHI-base	
-UniProtKB	P54292	rhlR		GO:0062162	PMID:28715477	IMP		P	HTH-type quorum-sensing regulator RhlR	lasM|vsmR|PA3477	protein	taxon:287	20190819	PHI-base	
-UniProtKB	Q51559	rhlA		GO:0106236	PMID:28715477	IMP		P	3-(3-hydroxydecanoyloxy)decanoate synthase	PA3479	protein	taxon:287	20190911	PHI-base	
-UniProtKB	Q9HZE4	pelA		GO:0045226	PMID:28715477	TAS		P	PelA	PA3064	protein	taxon:287	20190911	PHI-base	
-UniProtKB	A0A0K6FU48	RSOLAG22IIIB_04067		GO:0140423	PMID:31076860	EXP		P	Carbohydrate-binding module family 50 protein		protein	taxon:456999	20210125	PHI-base	with_host_species(161934)
-UniProtKB	G4MXR2	MGG_08054		GO:0052034	PMID:30610168	IMP		P	Chitinase		protein	taxon:318829	20200122	PHI-base	
-UniProtKB	Q5NBT9	TPR1		GO:0062208	PMID:30610168	IMP		P	Protein TPR1	ASPR2|TPR2|Os01g0254100|LOC_Os01g15020|OsJ_01134|OSNPB_010254100|P0705D01.10-1	protein	taxon:4530	20200122	PHI-base	
-UniProtKB	G4MXR2	MGG_08054		GO:0048315	PMID:30610168	IMP		P	Chitinase		protein	taxon:318829	20210429	PHI-base	
-UniProtKB	Q4WZA8	alb1		GO:0042438	PMID:28720735	IMP		P	Conidial pigment polyketide synthase alb1	pksP|AFUA_2G17600	protein	taxon:746128	20191007	PHI-base	
-UniProtKB	Q4WZA8	alb1		GO:0052034	PMID:28720735	TAS		P	Conidial pigment polyketide synthase alb1	pksP|AFUA_2G17600	protein	taxon:746128	20191007	PHI-base	
-UniProtKB	P05231	IL6		GO:0006954	PMID:28720735	TAS		P	Interleukin-6	IFNB2	protein	taxon:9606	20191007	PHI-base	
-UniProtKB	P01584	IL1B		GO:0006954	PMID:28720735	TAS		P	Interleukin-1 beta	IL1F2	protein	taxon:9606	20191007	PHI-base	
-UniProtKB	Q4X1W0	pptA		GO:0009085	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20191009	PHI-base	
-UniProtKB	Q4X1W0	pptA		GO:2001310	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20191009	PHI-base	
-UniProtKB	B0Y6V5	AFUB_068270		GO:0009085	PMID:28720735	TAS		P	Alpha-aminoadipate reductase		protein	taxon:746128	20191009	PHI-base	
-UniProtKB	E9QYP0	sidA		GO:0019290	PMID:28720735	TAS		P	L-ornithine N(5)-monooxygenase	Afu2g07680	protein	taxon:746128	20191009	PHI-base	
-UniProtKB	Q4X1W0	pptA		GO:1900551	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base	
-UniProtKB	Q4X1W0	pptA		GO:0140614	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base	
-UniProtKB	Q4X1W0	pptA		GO:1900809	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base	
-UniProtKB	Q4X1W0	pptA		GO:1900781	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base	
-UniProtKB	Q4X1W0	pptA		GO:1902086	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base	
-UniProtKB	F2SG60	MDR3		GO:1990961	PMID:31501141	IMP		P	ABC multidrug transporter MDR3	TERG_02186	protein	taxon:5551	20191105	PHI-base	
-UniProtKB	D0NPN8	Avr3a		GO:0080185	PMID:16965554	IDA		P	RxLR effector protein Avr3a	Avr3a(EM)|Pex147|PexRD7|PITG_14371	protein	taxon:4787	20210823	PHI-base	with_host_species(4113)
-UniProtKB	D0NKT5	PITG_12551		GO:0080185	PMID:16965554	IDA		P	Elicitin		protein	taxon:4787	20210823	PHI-base	with_host_species(4100)
-UniProtKB	Q2PEP0	noxA		GO:0052170	PMID:16517760	IMP		P	NADPH oxidase		protein	taxon:35717	20191210	PHI-base	
-UniProtKB	A0A507D1H9	avrSen1		GO:0140418	PMID:31246152	IMP		P	AvrSen1	SeMB42_g04087	protein	taxon:286115	20200313	PHI-base	
-UniProtKB	A0A0L0V3D9	PSTG_12806		GO:0052034	PMID:31804478	IDA		P	Vegetative cell wall protein gp1-like		protein	taxon:27350	20200121	PHI-base	
-UniProtKB	Q7X9A6	petC		GO:0009767	PMID:31804478	IDA		P	Cytochrome b6-f complex iron-sulfur subunit, chloroplastic		protein	taxon:4565	20200302	PHI-base	
-UniProtKB	Q00363	AVR4		GO:0140403	PMID:30148881	IMP		P	Race-specific elicitor A4		protein	taxon:5499	20200720	PHI-base	
-UniProtKB	Q2PEP0	noxA		GO:0052170	PMID:17041146	IMP		P	NADPH oxidase		protein	taxon:35717	20200205	PHI-base	
-UniProtKB	A0JC82	noxR		GO:0052170	PMID:17041146	IMP		P	NADPH oxidase regulator NoxR		protein	taxon:35717	20200205	PHI-base	
-UniProtKB	A0JC80	racA		GO:0052170	PMID:17041146	IMP		P	RacA		protein	taxon:35717	20200205	PHI-base	
-UniProtKB	A0A2K9YVY7	A0A2K9YVY7_ZYMTR		GO:0140418	PMID:29434355	IGI	UniProtKB:A0A1D5VHV3	P	AvrStb6		protein	taxon:1047171	20200226	PHI-base	
-UniProtKB	A0A0E0SJI5	FGRAMPH1_01T16205		GO:0051454	PMID:32883427	TAS		P	Chromosome 3, complete genome		protein	taxon:5518	20210118	PHI-base	
-UniProtKB	A9JX75	Tox1		GO:0080185	PMID:27819043	EXP		P	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20210122	PHI-base	
-UniProtKB	A0A0D1C8C8	See1		GO:0141017	PMID:25888589	IDA		P	Secreted effector protein See1	UMAG_02239	protein	taxon:5270	20220411	PHI-base	with_host_species(4577)
-UniProtKB	B4FQV3	100282745		GO:0045787	PMID:25888589	IMP		P	SGT1 disease resistance protein homolog1	ZEAMMB73_Zm00001d044172	protein	taxon:4577	20220422	PHI-base	
-UniProtKB	Q9AXI8	MEK2		GO:0000165	PMID:25888589	IDA		P	Mitogen-activated protein kinase 2		protein	taxon:4097	20220429	PHI-base	
-UniProtKB	Q2KEJ2	HTR1		GO:0140403	PMID:33203871	IDA		P	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829	20221115	PHI-base	with_host_species(4530),occurs_in(GO:0042025)
-UniProtKB	G5EHQ6	HTR2		GO:0140403	PMID:33203871	IDA		P	Host transcription reprogramming factor 2	MGCH7_ch7g1049|MGG_10280	protein	taxon:318829	20221115	PHI-base	with_host_species(4530),occurs_in(GO:0042025)
-UniProtKB	Q873W7	Erg27		GO:0006696	PMID:18779358	TAS		P	3-ketosteroid reductase		protein	taxon:40559	20230303	PHI-base	
-UniProtKB	F9XHX3	MYCGRDRAFT_105487		GO:0140593	PMID:21467214	TAS		C	LysM domain-containing protein		protein	taxon:1047171	20181214	PHI-base	
-UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0140593	PMID:21467214	TAS		C	Uncharacterized protein		protein	taxon:1047171	20181214	PHI-base	
-UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0043656	PMID:21467214	EXP		C	Uncharacterized protein		protein	taxon:1047171	20181214	PHI-base	
-UniProtKB	D0MVC9	EPI1		GO:0140593	PMID:15096512	IDA		C	Extracellular protease inhibitor 1	PITG_22681	protein	taxon:4787	20200204	PHI-base	exists_during(GO:0006968)
-UniProtKB	O04678	P69B		GO:0048046	PMID:15096512	IDA		C	Subtilisin-like protease	p69b	protein	taxon:4081	20200204	PHI-base	
-UniProtKB	I1S9X9	ATG9		GO:0005774	PMID:30044782	EXP		C	Autophagy-related protein 9	FGRAMPH1_01T26133	protein	taxon:5518	20190111	PHI-base	
-UniProtKB	I1S9X9	ATG9		GO:0000421	PMID:30044782	EXP		C	Autophagy-related protein 9	FGRAMPH1_01T26133	protein	taxon:5518	20190111	PHI-base	exists_during(GO:0006995)
-UniProtKB	M4B6G6	ATR1		GO:0042025	PMID:20601497	IDA		C	Avirulence protein ATR1	ATR1-NdWsB	protein	taxon:272952	20181114	PHI-base	
-UniProtKB	M4B6G6	ATR1		GO:0030430	PMID:20601497	IDA		C	Avirulence protein ATR1	ATR1-NdWsB	protein	taxon:272952	20181114	PHI-base	
-UniProtKB	A0A0D1DWQ2	CMU1		GO:0044164	PMID:30651637	TAS		C	Secreted chorismate mutase	UMAG_05731	protein	taxon:5270	20190125	PHI-base	
-UniProtKB	A0A0D1DWQ2	CMU1		GO:0140593	PMID:30651637	TAS		C	Secreted chorismate mutase	UMAG_05731	protein	taxon:5270	20200717	PHI-base	
-UniProtKB	F9WWD1	GT2		GO:0030446	PMID:29020037	EXP		C	Type 2 glycosyltransferase	MYCGRDRAFT_65552	protein	taxon:1047171	20190614	PHI-base	
-UniProtKB	I1RRW0	PEX4		GO:0005777	PMID:30603875	TAS		C	Ubiquitin-conjugating enzyme E2 PEX4	FG06857|FGRAMPH1_01T23345	protein	taxon:5518	20190515	PHI-base	
-UniProtKB	G4MY67	RAM1		GO:0005737	PMID:31250536	IDA		C	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20190812	PHI-base	
-UniProtKB	A0A0K6FU48	RSOLAG22IIIB_04067		GO:0005576	PMID:31076860	IDA		C	Carbohydrate-binding module family 50 protein		protein	taxon:456999	20210125	PHI-base	
-UniProtKB	G4MXR2	MGG_08054		GO:0005576	PMID:30610168	IDA		C	Chitinase		protein	taxon:318829	20190930	PHI-base	
-UniProtKB	Q5NBT9	TPR1		GO:0005886	PMID:30610168	IDA		C	Protein TPR1	ASPR2|TPR2|Os01g0254100|LOC_Os01g15020|OsJ_01134|OSNPB_010254100|P0705D01.10-1	protein	taxon:4530	20191014	PHI-base	
-UniProtKB	G4MXR2	MGG_08054		GO:0140593	PMID:30610168	IMP		C	Chitinase		protein	taxon:318829	20210420	PHI-base	
-UniProtKB	A0A0L0V3D9	PSTG_12806		GO:0033652	PMID:31804478	IDA		C	Vegetative cell wall protein gp1-like		protein	taxon:27350	20200120	PHI-base	
-UniProtKB	Q7X9A6	petC		GO:0009507	PMID:31804478	IDA		C	Cytochrome b6-f complex iron-sulfur subunit, chloroplastic		protein	taxon:4565	20200302	PHI-base	
-UniProtKB	B4FQV3	100282745		GO:0005634	PMID:25888589	EXP		C	SGT1 disease resistance protein homolog1	ZEAMMB73_Zm00001d044172	protein	taxon:4577	20220422	PHI-base	
-UniProtKB	B4FQV3	100282745		GO:0005737	PMID:25888589	EXP		C	SGT1 disease resistance protein homolog1	ZEAMMB73_Zm00001d044172	protein	taxon:4577	20220422	PHI-base	
-UniProtKB	A0A0D1C8C8	See1		GO:0042025	PMID:25888589	EXP		C	Secreted effector protein See1	UMAG_02239	protein	taxon:5270	20220425	PHI-base	
-UniProtKB	A0A0D1C8C8	See1		GO:0030430	PMID:25888589	EXP		C	Secreted effector protein See1	UMAG_02239	protein	taxon:5270	20220425	PHI-base	
-UniProtKB	Q2KEJ2	HTR1		GO:0042025	PMID:33203871	EXP		C	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829	20220520	PHI-base	with_host_species(4530)
-UniProtKB	G5EHQ6	HTR2		GO:0042025	PMID:33203871	EXP		C	Host transcription reprogramming factor 2	MGCH7_ch7g1049|MGG_10280	protein	taxon:318829	20220520	PHI-base	with_host_species(4530)
-UniProtKB	Q2KEJ2	HTR1		GO:0005737	PMID:33203871	EXP		C	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829	20221121	PHI-base	part_of(conidium)
-UniProtKB	Q2KEJ2	HTR1		GO:0085039	PMID:33203871	EXP		C	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829	20221202	PHI-base	with_host_species(4530)
-UniProtKB	G5EHQ6	HTR2		GO:0085039	PMID:33203871	EXP		C	Host transcription reprogramming factor 2	MGCH7_ch7g1049|MGG_10280	protein	taxon:318829	20221202	PHI-base	with_host_species(4530)
-UniProtKB	A0A385MIS5	Chi		GO:0008061	PMID:30220500	IDA		F	Chitinase-like effector		protein	taxon:153609	20181207	PHI-base	
-UniProtKB	A0A385MIS5	Chi	NOT	GO:0004568	PMID:30220500	IDA		F	Chitinase-like effector		protein	taxon:153609	20190121	PHI-base	
-UniProtKB	A0A0W0FPC8	Chi		GO:0008061	PMID:30220500	IDA		F	Chitinase-like effector	WG66_9206	protein	taxon:221103	20190121	PHI-base	
-UniProtKB	A0A0W0FPC8	Chi		GO:0004568	PMID:30220500	IDA		F	Chitinase-like effector	WG66_9206	protein	taxon:221103	20190121	PHI-base	
-UniProtKB	A0A385MIS5	Chi		GO:0140320	PMID:30220500	EXP		F	Chitinase-like effector		protein	taxon:153609	20190930	PHI-base	part_of(GO:0140423)
-UniProtKB	A0A0W0EUL3	WG66_19681		GO:0004568	PMID:30220500	IDA		F	Putative chitinase		protein	taxon:221103	20191120	PHI-base	
-UniProtKB	A0A0W0EUL3	WG66_19681		GO:0140320	PMID:30220500	EXP		F	Putative chitinase		protein	taxon:221103	20191120	PHI-base	part_of(GO:0140423)
-UniProtKB	F9XHX3	MYCGRDRAFT_105487		GO:0008061	PMID:21467214	IDA		F	LysM domain-containing protein		protein	taxon:1047171	20181212	PHI-base	
-UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0008061	PMID:21467214	IDA		F	Uncharacterized protein		protein	taxon:1047171	20181212	PHI-base	
-UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0140320	PMID:21467214	IDA		F	Uncharacterized protein		protein	taxon:1047171	20200713	PHI-base	has_input(CHEBI:17029),part_of(GO:0052034)
-UniProtKB	O04678	P69B		GO:0008236	PMID:15096512	IDA		F	Subtilisin-like protease	p69b	protein	taxon:4081	20181214	PHI-base	occurs_in(GO:0048046),part_of(GO:0045087)
-UniProtKB	D0MVC9	EPI1		GO:0004867	PMID:15096512	IDA		F	Extracellular protease inhibitor 1	PITG_22681	protein	taxon:4787	20191014	PHI-base	has_input(UniProtKB:O04678),part_of(GO:0140403),occurs_in(GO:0140593)
-UniProtKB	A0A3B6RF20	A0A3B6RF20_WHEAT		GO:0038187	PMID:24073880	IMP		F	Protein kinase domain-containing protein		protein	taxon:4565	20181218	PHI-base	part_of(GO:0002752),part_of(GO:0009620)
-UniProtKB	A0A076VC28	CEBiP		GO:0038187	PMID:24073880	IMP		F	Chitin elicitor binding protein		protein	taxon:4565	20181218	PHI-base	part_of(GO:0002752),part_of(GO:0009620)
-UniProtKB	F9XHX3	MYCGRDRAFT_105487		GO:0008061	PMID:24073880	TAS		F	LysM domain-containing protein		protein	taxon:1047171	20191004	PHI-base	
-UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0008061	PMID:24073880	TAS		F	Uncharacterized protein		protein	taxon:1047171	20191004	PHI-base	
-UniProtKB	F9XHX3	MYCGRDRAFT_105487		GO:0140320	PMID:24073880	EXP		F	LysM domain-containing protein		protein	taxon:1047171	20191106	PHI-base	part_of(GO:0052034)
-UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0140320	PMID:24073880	EXP		F	Uncharacterized protein		protein	taxon:1047171	20191106	PHI-base	part_of(GO:0052034)
-UniProtKB	I1S9X9	ATG9		GO:0005085	PMID:30044782	IPI	UniProtKB:A0A2H3HA93	F	Autophagy-related protein 9	FGRAMPH1_01T26133	protein	taxon:5518	20190111	PHI-base	part_of(GO:0061738)
-UniProtKB	A0A2H3HA93	FGRA07_01288		GO:0003924	PMID:30044782	TAS		F	Ras-like protein Rab7	MDC_LOCUS215074	protein	taxon:5518	20190111	PHI-base	part_of(GO:0010506)
-UniProtKB	A0A2H3HA93	FGRA07_01288		GO:0005515	PMID:30044782	IPI	UniProtKB:I1S9X9	F	Ras-like protein Rab7	MDC_LOCUS215074	protein	taxon:5518	20191106	PHI-base	
-UniProtKB	F4J339	RPP1		GO:0140376	PMID:20601497	EXP		F	Probable disease resistance protein RPP1	At3g44480|F14L2_30	protein	taxon:3702	20200313	PHI-base	has_input(UniProtKB:M4B6G6),part_of(GO:0002758)
-UniProtKB	M4B6G6	ATR1		GO:0005515	PMID:20601497	IPI	UniProtKB:F4J339	F	Avirulence protein ATR1	ATR1-NdWsB	protein	taxon:272952	20200313	PHI-base	part_of(GO:0140418)
-UniProtKB	A0A0D1DWQ2	CMU1		GO:0004106	PMID:30651637	IDA		F	Secreted chorismate mutase	UMAG_05731	protein	taxon:5270	20190125	PHI-base	part_of(GO:0140502)
-UniProtKB	A0A1D6GNR3	KWL1		GO:0004857	PMID:30651637	IDA		F	Kiwellin-1	ZEAMMB73_Zm00001d013945	protein	taxon:4577	20200731	PHI-base	has_input(UniProtKB:A0A0D1DWQ2)
-UniProtKB	F9X6V3	MYCGRDRAFT_91615		GO:0008897	PMID:30459352	IMP		F	Putative phosphopantetheinyl transferase		protein	taxon:1047171	20191105	PHI-base	has_direct_input(UniProtKB:F9X6V3)
-UniProtKB	F9X701	MYCGRDRAFT_39611		GO:0004043	PMID:30459352	IMP		F	AAR2 domain-containing protein		protein	taxon:1047171	20191105	PHI-base	
-UniProtKB	A9JX75	Tox1		GO:0008061	PMID:22241993	TAS		F	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20190426	PHI-base	
-UniProtKB	A9JX75	Tox1		GO:0140295	PMID:22241993	EXP		F	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20191023	PHI-base	has_input(UniProtKB:W5AB81),part_of(GO:0080185)
-UniProtKB	W5AB81	Snn1		GO:0038023	PMID:22241993	EXP		F	SnTox1 sensitivity protein		protein	taxon:4565	20200424	PHI-base	
-UniProtKB	F9WWD1	GT2		GO:0016757	PMID:29020037	TAS		F	Type 2 glycosyltransferase	MYCGRDRAFT_65552	protein	taxon:1047171	20190606	PHI-base	
-UniProtKB	I1RRW0	PEX4		GO:0061631	PMID:30603875	TAS		F	Ubiquitin-conjugating enzyme E2 PEX4	FG06857|FGRAMPH1_01T23345	protein	taxon:5518	20190515	PHI-base	
-UniProtKB	Q8TG19	MGV1		GO:0004707	PMID:30603875	TAS		F	Mitogen-activated protein kinase	FGRA07_06476|FUG_LOCUS34973|MDC_LOCUS58830|MDCFG593_LOCUS126519|MDCFG851_LOCUS45753	protein	taxon:5518	20191203	PHI-base	
-UniProtKB	G4MY67	RAM1	contributes_to	GO:0004660	PMID:31250536	EXP		F	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20191105	PHI-base	part_of(GO:0061951),has_input(UniProtKB:G4MZY8)
-UniProtKB	G4MY67	RAM1		GO:0005515	PMID:31250536	IPI	UniProtKB:G4MZY8	F	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20191105	PHI-base	
-UniProtKB	G4MY67	RAM1		GO:0005515	PMID:31250536	IPI	UniProtKB:G4N1S3	F	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20191105	PHI-base	
-UniProtKB	P54291	rhlI		GO:0061579	PMID:28715477	TAS		F	Acyl-homoserine-lactone synthase	vsmI|PA3476	protein	taxon:287	20190819	PHI-base	part_of(GO:0120218)
-UniProtKB	P54292	rhlR		GO:0038023	PMID:28715477	TAS		F	HTH-type quorum-sensing regulator RhlR	lasM|vsmR|PA3477	protein	taxon:287	20190819	PHI-base	has_input(CHEBI:17289),part_of(GO:0120218)
-UniProtKB	P54292	rhlR		GO:0003700	PMID:28715477	TAS		F	HTH-type quorum-sensing regulator RhlR	lasM|vsmR|PA3477	protein	taxon:287	20191106	PHI-base	part_of(GO:0120218)
-UniProtKB	A0A0K6FU48	RSOLAG22IIIB_04067		GO:0008061	PMID:31076860	IDA		F	Carbohydrate-binding module family 50 protein		protein	taxon:456999	20191202	PHI-base	
-UniProtKB	A0A0K6FU48	RSOLAG22IIIB_04067		GO:0140319	PMID:31076860	IDA		F	Carbohydrate-binding module family 50 protein		protein	taxon:456999	20210125	PHI-base	part_of(GO:0140423)
-UniProtKB	G4MXR2	MGG_08054		GO:0004568	PMID:30610168	IDA		F	Chitinase		protein	taxon:318829	20190930	PHI-base	part_of(GO:0048315)
-UniProtKB	G4MXR2	MGG_08054		GO:0008061	PMID:30610168	IDA		F	Chitinase		protein	taxon:318829	20191014	PHI-base	
-UniProtKB	G4MXR2	MGG_08054		GO:0140320	PMID:30610168	IDA		F	Chitinase		protein	taxon:318829	20191014	PHI-base	part_of(GO:0052034),occurs_in(GO:0140593)
-UniProtKB	Q5NBT9	TPR1		GO:0140311	PMID:30610168	IPI	UniProtKB:G4MXR2	F	Protein TPR1	ASPR2|TPR2|Os01g0254100|LOC_Os01g15020|OsJ_01134|OSNPB_010254100|P0705D01.10-1	protein	taxon:4530	20200120	PHI-base	has_input(MGG_08054),part_of(GO:0062208),occurs_in(GO:0048046)
-UniProtKB	P05231	IL6		GO:0005125	PMID:28720735	TAS		F	Interleukin-6	IFNB2	protein	taxon:9606	20191007	PHI-base	
-UniProtKB	P01584	IL1B		GO:0005125	PMID:28720735	TAS		F	Interleukin-1 beta	IL1F2	protein	taxon:9606	20191007	PHI-base	
-UniProtKB	Q4X1W0	pptA		GO:0008897	PMID:28720735	IDA		F	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base	
-UniProtKB	B8NFL5	cyp51B		GO:0008398	PMID:22314539	TAS		F	Sterol 14-alpha demethylase	AFLA_131060	protein	taxon:5059	20191104	PHI-base	
-UniProtKB	B8N2C8	cyp51A		GO:0008398	PMID:22314539	TAS		F	Sterol 14-alpha demethylase	AFLA_036130	protein	taxon:5059	20191104	PHI-base	
-UniProtKB	B8NUK6	cyp51c		GO:0008398	PMID:22314539	TAS		F	Sterol 14-alpha demethylase	AFLA_100590	protein	taxon:5059	20191104	PHI-base	
-UniProtKB	F2SG60	MDR3		GO:0140394	PMID:31501141	IMP		F	ABC multidrug transporter MDR3	TERG_02186	protein	taxon:5551	20191105	PHI-base	part_of(GO:1990961)
-UniProtKB	G4MWY1	GT2		GO:0016757	PMID:31484736	IMP		F	Type 2 glycosyltransferase	MGG_01191	protein	taxon:318829	20191217	PHI-base	
-UniProtKB	Q5I6L8	Q5I6L8_SOLTU		GO:0140376	PMID:16965554	IDA		F	Potato late blight resistance protein R3a		protein	taxon:4113	20210823	PHI-base	with_symbiont_species(4787)
-UniProtKB	Q2PEP0	noxA		GO:0016175	PMID:16517760	TAS		F	NADPH oxidase		protein	taxon:35717	20191204	PHI-base	
-UniProtKB	Q2PEN8	noxB		GO:0016175	PMID:16517760	TAS		F	NADPH oxidase		protein	taxon:35717	20191210	PHI-base	
-UniProtKB	A0A0L0V3D9	PSTG_12806		GO:0005515	PMID:31804478	IPI	UniProtKB:Q7X9A6	F	Vegetative cell wall protein gp1-like		protein	taxon:27350	20200129	PHI-base	part_of(GO:0052034)
-UniProtKB	A0A0L0V3D9	PSTG_12806		GO:0004857	PMID:31804478	IPI	UniProtKB:Q7X9A6	F	Vegetative cell wall protein gp1-like		protein	taxon:27350	20200302	PHI-base	has_regulation_target(UniProtKB:Q7X9A6),occurs_at(host cell chloroplast),part_of(GO:0052034)
-UniProtKB	Q7X9A6	petC		GO:0009496	PMID:31804478	IDA		F	Cytochrome b6-f complex iron-sulfur subunit, chloroplastic		protein	taxon:4565	20200302	PHI-base	part_of(GO:0009767)
-UniProtKB	Q00363	AVR4		GO:0008061	PMID:30148881	IDA		F	Race-specific elicitor A4		protein	taxon:5499	20200720	PHI-base	
-UniProtKB	Q00363	AVR4		GO:0140320	PMID:30148881	EXP		F	Race-specific elicitor A4		protein	taxon:5499	20200720	PHI-base	has_input(CHEBI:17029),part_of(GO:0140403)
-UniProtKB	A0JC82	noxR		GO:0016176	PMID:17041146	IMP		F	NADPH oxidase regulator NoxR		protein	taxon:35717	20200205	PHI-base	has_regulation_target(UniProtKB:Q2PEP0),part_of(GO:0052170)
-UniProtKB	Q2PEP0	noxA		GO:0016175	PMID:17041146	TAS		F	NADPH oxidase		protein	taxon:35717	20200205	PHI-base	part_of(GO:0052170)
-UniProtKB	A0JC80	racA		GO:0005515	PMID:17041146	IPI	UniProtKB:A0JC82	F	RacA		protein	taxon:35717	20200205	PHI-base	part_of(GO:0052170)
-UniProtKB	Q8X1A2	pmk1		GO:0004707	PMID:18179606	TAS		F	Mitogen-activated protein kinase		protein	taxon:5518	20200225	PHI-base	part_of(GO:0000165)
-UniProtKB	Q00909	TRI5		GO:0045482	PMID:18179606	IMP		F	Trichodiene synthase	FGRRES_03537|FGSG_03537	protein	taxon:5518	20200225	PHI-base	part_of(GO:0106110)
-UniProtKB	A0A1D5VHV3	stb6		GO:0004672	PMID:29434355	IDA		F	Non-specific serine/threonine protein kinase	Stb6|WAKL4|TAATGACV1_Stb6|TAECS673A7_Stb6	protein	taxon:4565	20200226	PHI-base	has_input(UniProtKB:A0A1D5VHV3)
-UniProtKB	W5AB81	Snn1		GO:0038023	PMID:27819043	EXP		F	SnTox1 sensitivity protein		protein	taxon:4565	20210122	PHI-base	
-UniProtKB	A9JX75	Tox1		GO:0140295	PMID:27819043	EXP		F	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20210122	PHI-base	part_of(GO:0080185),has_input(binds (UniProt:W5AB81))
-UniProtKB	Q9M6Q9	Q9M6Q9_TOBAC		GO:0004707	PMID:25888589	IDA		F	MAP kinase kinase		protein	taxon:4097	20220425	PHI-base	happens_during(GO:0098542)
-UniProtKB	Q9AXI8	MEK2		GO:0004707	PMID:25888589	IDA		F	Mitogen-activated protein kinase 2		protein	taxon:4097	20220429	PHI-base	has_input(UniProtKB:Q9M6Q9)
-UniProtKB	Q2KEJ2	HTR1		GO:0003677	PMID:33203871	IDA		F	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829	20220520	PHI-base	occurs_in(SO:0001659),occurs_in(GO:0042025),with_host_species(4530),part_of(GO:0140403)
-UniProtKB	G5EHQ6	HTR2		GO:0003677	PMID:33203871	IDA		F	Host transcription reprogramming factor 2	MGCH7_ch7g1049|MGG_10280	protein	taxon:318829	20220520	PHI-base	occurs_in(SO:0001659),occurs_in(GO:0042025),with_host_species(4530),part_of(GO:0140403)
-UniProtKB	Q2KEJ2	HTR1		GO:0001227	PMID:33203871	EXP		F	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829	20220520	PHI-base	occurs_in(GO:0042025),with_host_species(4530),part_of(GO:0140403)
-UniProtKB	G5EHQ6	HTR2		GO:0001227	PMID:33203871	EXP		F	Host transcription reprogramming factor 2	MGCH7_ch7g1049|MGG_10280	protein	taxon:318829	20220520	PHI-base	occurs_in(GO:0042025),with_host_species(4530),part_of(GO:0140403)
-UniProtKB	Q873W7	Erg27		GO:0045703	PMID:18779358	TAS		F	3-ketosteroid reductase		protein	taxon:40559	20230303	PHI-base	part_of(GO:0006696)
+UniProtKB	A0A385MIS5	Chi		GO:0140423	PMID:30220500	IMP		P	Chitinase-like effector		protein	taxon:153609	20190121	PHI-base		
+UniProtKB	A0A0W0EUL3	WG66_19681		GO:0052034	PMID:30220500	IMP		P	Putative chitinase		protein	taxon:221103	20190930	PHI-base		
+UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0052034	PMID:21467214	IDA		P	Uncharacterized protein		protein	taxon:1047171	20190930	PHI-base		
+UniProtKB	F9XHX3	MYCGRDRAFT_105487	NOT	GO:0052034	PMID:21467214	IDA		P	LysM domain-containing protein		protein	taxon:1047171	20190930	PHI-base		
+UniProtKB	D0MVC9	EPI1		GO:0140403	PMID:15096512	IDA		P	Extracellular protease inhibitor 1	PITG_22681	protein	taxon:4787	20200424	PHI-base		
+UniProtKB	O04678	P69B		GO:0045087	PMID:15096512	EXP		P	Subtilisin-like protease	p69b	protein	taxon:4081	20200427	PHI-base	occurs_in(apoplast),part_of(GO:0002239)	
+UniProtKB	A0A3B6RF20	A0A3B6RF20_WHEAT		GO:0002752	PMID:24073880	IMP		P	Protein kinase domain-containing protein		protein	taxon:4565	20191004	PHI-base		
+UniProtKB	A0A076VC28	CEBiP		GO:0002752	PMID:24073880	EXP		P	Chitin elicitor binding protein		protein	taxon:4565	20191004	PHI-base		
+UniProtKB	F9XHX3	MYCGRDRAFT_105487		GO:0052034	PMID:24073880	EXP		P	LysM domain-containing protein		protein	taxon:1047171	20191004	PHI-base		
+UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0052034	PMID:24073880	EXP		P	Uncharacterized protein		protein	taxon:1047171	20191004	PHI-base		
+UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0140423	PMID:24073880	EXP		P	Uncharacterized protein		protein	taxon:1047171	20200713	PHI-base		
+UniProtKB	I1S9X9	ATG9		GO:0016236	PMID:30044782	IMP		P	Autophagy-related protein 9	FGRAMPH1_01T26133	protein	taxon:5518	20190111	PHI-base	part_of(GO:0006995)	
+UniProtKB	A0A2H3HA93	FGRA07_01288		GO:0016241	PMID:30044782	IMP		P	Ras-like protein Rab7	MDC_LOCUS215074	protein	taxon:5518	20191106	PHI-base		
+UniProtKB	I1S9X9	ATG9		GO:1905691	PMID:30044782	IMP		P	Autophagy-related protein 9	FGRAMPH1_01T26133	protein	taxon:5518	20191106	PHI-base	part_of(GO:0006995)	
+UniProtKB	F4J339	RPP1		GO:0034052	PMID:20601497	IMP		P	Probable disease resistance protein RPP1	At3g44480|F14L2_30	protein	taxon:3702	20181114	PHI-base		
+UniProtKB	F4J339	RPP1		GO:0002758	PMID:20601497	IMP		P	Probable disease resistance protein RPP1	At3g44480|F14L2_30	protein	taxon:3702	20191022	PHI-base	part_of(GO:0034052),part_of(GO:0002229)	
+UniProtKB	M4B6G6	ATR1		GO:0140418	PMID:20601497	IMP		P	Avirulence protein ATR1	ATR1-NdWsB	protein	taxon:272952	20200122	PHI-base		
+UniProtKB	A0A1D6GNR3	KWL1		GO:0051851	PMID:30651637	IDA		P	Kiwellin-1	ZEAMMB73_Zm00001d013945	protein	taxon:4577	20190125	PHI-base		
+UniProtKB	A0A0D1DWQ2	CMU1		GO:0140502	PMID:30651637	IDA		P	Secreted chorismate mutase	UMAG_05731	protein	taxon:5270	20200717	PHI-base		
+UniProtKB	F9X6V3	MYCGRDRAFT_91615		GO:0018215	PMID:30459352	IMP		P	Putative phosphopantetheinyl transferase		protein	taxon:1047171	20190927	PHI-base		
+UniProtKB	F9X2M4	NRPS1		GO:0019290	PMID:30459352	TAS		P	Putative Non-ribosomal peptide synthetase	MYCGRDRAFT_36951	protein	taxon:1047171	20190927	PHI-base		
+UniProtKB	F9X701	MYCGRDRAFT_39611		GO:0009085	PMID:30459352	IMP		P	AAR2 domain-containing protein		protein	taxon:1047171	20190927	PHI-base		
+UniProtKB	F9XMW3	PKS1		GO:0042438	PMID:30459352	IMP		P	Non-reducing polyketide synthase PKS1	MYCGRDRAFT_96592	protein	taxon:1047171	20190927	PHI-base		
+UniProtKB	F9XFI6	PKS7		GO:0030639	PMID:30459352	TAS		P	Polyketide synthase	MYCGRDRAFT_45348	protein	taxon:1047171	20190927	PHI-base		
+UniProtKB	F9XQ63	PKS8		GO:0030639	PMID:30459352	TAS		P	Polyketide synthase	MYCGRDRAFT_51018	protein	taxon:1047171	20190927	PHI-base		
+UniProtKB	F9XD62	MYCGRDRAFT_93828		GO:0048023	PMID:30459352	IMP		P	HTH APSES-type domain-containing protein		protein	taxon:1047171	20191105	PHI-base		
+UniProtKB	F9XD62	MYCGRDRAFT_93828		GO:0045944	PMID:30459352	EXP		P	HTH APSES-type domain-containing protein		protein	taxon:1047171	20210203	PHI-base	has_regulation_target(UniProtKB:F9X6V3)	
+UniProtKB	A9JX75	Tox1		GO:0080185	PMID:22241993	EXP		P	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20190430	PHI-base		
+UniProtKB	F9WWD1	GT2		GO:0030448	PMID:29020037	IMP		P	Type 2 glycosyltransferase	MYCGRDRAFT_65552	protein	taxon:1047171	20190614	PHI-base		
+UniProtKB	I1RB03	GT2		GO:0030448	PMID:29020037	IMP		P	Type 2 glycosyltransferase	FG00702|FGRAMPH1_01T01771	protein	taxon:5518	20191106	PHI-base		
+UniProtKB	I1RB03	GT2	NOT	GO:0075201	PMID:29020037	IMP		P	Type 2 glycosyltransferase	FG00702|FGRAMPH1_01T01771	protein	taxon:5518	20200302	PHI-base		
+UniProtKB	I1RRW0	PEX4		GO:0016557	PMID:30603875	EXP		P	Ubiquitin-conjugating enzyme E2 PEX4	FG06857|FGRAMPH1_01T23345	protein	taxon:5518	20190515	PHI-base		
+UniProtKB	I1RRW0	PEX4		GO:0016562	PMID:30603875	TAS		P	Ubiquitin-conjugating enzyme E2 PEX4	FG06857|FGRAMPH1_01T23345	protein	taxon:5518	20190520	PHI-base		
+UniProtKB	G4N0Z0	PMK1		GO:0075018	PMID:29567712	IDA		P	Mitogen-activated protein kinase PMK11	MGG_09565	protein	taxon:318829	20190729	PHI-base		
+UniProtKB	G4N0Z0	PMK1		GO:0000921	PMID:29567712	IMP		P	Mitogen-activated protein kinase PMK11	MGG_09565	protein	taxon:318829	20190729	PHI-base		
+UniProtKB	G4N0Z0	PMK1		GO:0030448	PMID:29567712	IMP		P	Mitogen-activated protein kinase PMK11	MGG_09565	protein	taxon:318829	20190801	PHI-base		
+UniProtKB	G4N0Z0	PMK1		GO:0140649	PMID:29567712	IMP		P	Mitogen-activated protein kinase PMK11	MGG_09565	protein	taxon:318829	20191105	PHI-base	occurs_in(GO:0044219)	
+UniProtKB	G4MY67	RAM1		GO:0018343	PMID:31250536	IMP		P	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20190817	PHI-base		
+UniProtKB	G4MY67	RAM1		GO:0061951	PMID:31250536	IMP		P	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20191105	PHI-base		
+UniProtKB	P54291	rhlI		GO:0120218	PMID:28715477	TAS		P	Acyl-homoserine-lactone synthase	vsmI|PA3476	protein	taxon:287	20190819	PHI-base		
+UniProtKB	P54292	rhlR		GO:0062162	PMID:28715477	IMP		P	HTH-type quorum-sensing regulator RhlR	lasM|vsmR|PA3477	protein	taxon:287	20190819	PHI-base		
+UniProtKB	Q51559	rhlA		GO:0106236	PMID:28715477	IMP		P	3-(3-hydroxydecanoyloxy)decanoate synthase	PA3479	protein	taxon:287	20190911	PHI-base		
+UniProtKB	Q9HZE4	pelA		GO:0045226	PMID:28715477	TAS		P	PelA	PA3064	protein	taxon:287	20190911	PHI-base		
+UniProtKB	A0A0K6FU48	RSOLAG22IIIB_04067		GO:0140423	PMID:31076860	EXP		P	Carbohydrate-binding module family 50 protein		protein	taxon:456999|taxon:161934	20210125	PHI-base		
+UniProtKB	G4MXR2	MGG_08054		GO:0052034	PMID:30610168	IMP		P	Chitinase		protein	taxon:318829	20200122	PHI-base		
+UniProtKB	Q5NBT9	TPR1		GO:0062208	PMID:30610168	IMP		P	Protein TPR1	ASPR2|TPR2|Os01g0254100|LOC_Os01g15020|OsJ_01134|OSNPB_010254100|P0705D01.10-1	protein	taxon:4530	20200122	PHI-base		
+UniProtKB	G4MXR2	MGG_08054		GO:0048315	PMID:30610168	IMP		P	Chitinase		protein	taxon:318829	20210429	PHI-base		
+UniProtKB	Q4WZA8	alb1		GO:0042438	PMID:28720735	IMP		P	Conidial pigment polyketide synthase alb1	pksP|AFUA_2G17600	protein	taxon:746128	20191007	PHI-base		
+UniProtKB	Q4WZA8	alb1		GO:0052034	PMID:28720735	TAS		P	Conidial pigment polyketide synthase alb1	pksP|AFUA_2G17600	protein	taxon:746128	20191007	PHI-base		
+UniProtKB	P05231	IL6		GO:0006954	PMID:28720735	TAS		P	Interleukin-6	IFNB2	protein	taxon:9606	20191007	PHI-base		
+UniProtKB	P01584	IL1B		GO:0006954	PMID:28720735	TAS		P	Interleukin-1 beta	IL1F2	protein	taxon:9606	20191007	PHI-base		
+UniProtKB	Q4X1W0	pptA		GO:0009085	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20191009	PHI-base		
+UniProtKB	Q4X1W0	pptA		GO:2001310	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20191009	PHI-base		
+UniProtKB	B0Y6V5	AFUB_068270		GO:0009085	PMID:28720735	TAS		P	Alpha-aminoadipate reductase		protein	taxon:746128	20191009	PHI-base		
+UniProtKB	E9QYP0	sidA		GO:0019290	PMID:28720735	TAS		P	L-ornithine N(5)-monooxygenase	Afu2g07680	protein	taxon:746128	20191009	PHI-base		
+UniProtKB	Q4X1W0	pptA		GO:1900551	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base		
+UniProtKB	Q4X1W0	pptA		GO:0140614	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base		
+UniProtKB	Q4X1W0	pptA		GO:1900809	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base		
+UniProtKB	Q4X1W0	pptA		GO:1900781	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base		
+UniProtKB	Q4X1W0	pptA		GO:1902086	PMID:28720735	IMP		P	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base		
+UniProtKB	F2SG60	MDR3		GO:1990961	PMID:31501141	IMP		P	ABC multidrug transporter MDR3	TERG_02186	protein	taxon:5551	20191105	PHI-base		
+UniProtKB	D0NPN8	Avr3a		GO:0080185	PMID:16965554	IDA		P	RxLR effector protein Avr3a	Avr3a(EM)|Pex147|PexRD7|PITG_14371	protein	taxon:4787|taxon:4113	20210823	PHI-base		
+UniProtKB	D0NKT5	PITG_12551		GO:0080185	PMID:16965554	IDA		P	Elicitin		protein	taxon:4787|taxon:4100	20210823	PHI-base		
+UniProtKB	Q2PEP0	noxA		GO:0052170	PMID:16517760	IMP		P	NADPH oxidase		protein	taxon:35717	20191210	PHI-base		
+UniProtKB	A0A507D1H9	avrSen1		GO:0140418	PMID:31246152	IMP		P	AvrSen1	SeMB42_g04087	protein	taxon:286115	20200313	PHI-base		
+UniProtKB	A0A0L0V3D9	PSTG_12806		GO:0052034	PMID:31804478	IDA		P	Vegetative cell wall protein gp1-like		protein	taxon:27350	20200121	PHI-base		
+UniProtKB	Q7X9A6	petC		GO:0009767	PMID:31804478	IDA		P	Cytochrome b6-f complex iron-sulfur subunit, chloroplastic		protein	taxon:4565	20200302	PHI-base		
+UniProtKB	Q00363	AVR4		GO:0140403	PMID:30148881	IMP		P	Race-specific elicitor A4		protein	taxon:5499	20200720	PHI-base		
+UniProtKB	Q2PEP0	noxA		GO:0052170	PMID:17041146	IMP		P	NADPH oxidase		protein	taxon:35717	20200205	PHI-base		
+UniProtKB	A0JC82	noxR		GO:0052170	PMID:17041146	IMP		P	NADPH oxidase regulator NoxR		protein	taxon:35717	20200205	PHI-base		
+UniProtKB	A0JC80	racA		GO:0052170	PMID:17041146	IMP		P	RacA		protein	taxon:35717	20200205	PHI-base		
+UniProtKB	A0A2K9YVY7	A0A2K9YVY7_ZYMTR		GO:0140418	PMID:29434355	IGI	UniProtKB:A0A1D5VHV3	P	AvrStb6		protein	taxon:1047171	20200226	PHI-base		
+UniProtKB	A0A0E0SJI5	FGRAMPH1_01T16205		GO:0051454	PMID:32883427	TAS		P	Chromosome 3, complete genome		protein	taxon:5518	20210118	PHI-base		
+UniProtKB	A9JX75	Tox1		GO:0080185	PMID:27819043	EXP		P	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20210122	PHI-base		
+UniProtKB	A0A0D1C8C8	See1		GO:0141017	PMID:25888589	IDA		P	Secreted effector protein See1	UMAG_02239	protein	taxon:5270|taxon:4577	20220411	PHI-base		
+UniProtKB	B4FQV3	100282745		GO:0045787	PMID:25888589	IMP		P	SGT1 disease resistance protein homolog1	ZEAMMB73_Zm00001d044172	protein	taxon:4577	20220422	PHI-base		
+UniProtKB	Q9AXI8	MEK2		GO:0000165	PMID:25888589	IDA		P	Mitogen-activated protein kinase 2		protein	taxon:4097	20220429	PHI-base		
+UniProtKB	Q2KEJ2	HTR1		GO:0140403	PMID:33203871	IDA		P	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829|taxon:4530	20221115	PHI-base	occurs_in(GO:0042025)	
+UniProtKB	G5EHQ6	HTR2		GO:0140403	PMID:33203871	IDA		P	Host transcription reprogramming factor 2	MGCH7_ch7g1049|MGG_10280	protein	taxon:318829|taxon:4530	20221115	PHI-base	occurs_in(GO:0042025)	
+UniProtKB	Q873W7	Erg27		GO:0006696	PMID:18779358	TAS		P	3-ketosteroid reductase		protein	taxon:40559	20230303	PHI-base		
+UniProtKB	F9XHX3	MYCGRDRAFT_105487		GO:0140593	PMID:21467214	TAS		C	LysM domain-containing protein		protein	taxon:1047171	20181214	PHI-base		
+UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0140593	PMID:21467214	TAS		C	Uncharacterized protein		protein	taxon:1047171	20181214	PHI-base		
+UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0043656	PMID:21467214	EXP		C	Uncharacterized protein		protein	taxon:1047171	20181214	PHI-base		
+UniProtKB	D0MVC9	EPI1		GO:0140593	PMID:15096512	IDA		C	Extracellular protease inhibitor 1	PITG_22681	protein	taxon:4787	20200204	PHI-base	exists_during(GO:0006968)	
+UniProtKB	O04678	P69B		GO:0048046	PMID:15096512	IDA		C	Subtilisin-like protease	p69b	protein	taxon:4081	20200204	PHI-base		
+UniProtKB	I1S9X9	ATG9		GO:0005774	PMID:30044782	EXP		C	Autophagy-related protein 9	FGRAMPH1_01T26133	protein	taxon:5518	20190111	PHI-base		
+UniProtKB	I1S9X9	ATG9		GO:0000421	PMID:30044782	EXP		C	Autophagy-related protein 9	FGRAMPH1_01T26133	protein	taxon:5518	20190111	PHI-base	exists_during(GO:0006995)	
+UniProtKB	M4B6G6	ATR1		GO:0042025	PMID:20601497	IDA		C	Avirulence protein ATR1	ATR1-NdWsB	protein	taxon:272952	20181114	PHI-base		
+UniProtKB	M4B6G6	ATR1		GO:0030430	PMID:20601497	IDA		C	Avirulence protein ATR1	ATR1-NdWsB	protein	taxon:272952	20181114	PHI-base		
+UniProtKB	A0A0D1DWQ2	CMU1		GO:0044164	PMID:30651637	TAS		C	Secreted chorismate mutase	UMAG_05731	protein	taxon:5270	20190125	PHI-base		
+UniProtKB	A0A0D1DWQ2	CMU1		GO:0140593	PMID:30651637	TAS		C	Secreted chorismate mutase	UMAG_05731	protein	taxon:5270	20200717	PHI-base		
+UniProtKB	F9WWD1	GT2		GO:0030446	PMID:29020037	EXP		C	Type 2 glycosyltransferase	MYCGRDRAFT_65552	protein	taxon:1047171	20190614	PHI-base		
+UniProtKB	I1RRW0	PEX4		GO:0005777	PMID:30603875	TAS		C	Ubiquitin-conjugating enzyme E2 PEX4	FG06857|FGRAMPH1_01T23345	protein	taxon:5518	20190515	PHI-base		
+UniProtKB	G4MY67	RAM1		GO:0005737	PMID:31250536	IDA		C	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20190812	PHI-base		
+UniProtKB	A0A0K6FU48	RSOLAG22IIIB_04067		GO:0005576	PMID:31076860	IDA		C	Carbohydrate-binding module family 50 protein		protein	taxon:456999	20210125	PHI-base		
+UniProtKB	G4MXR2	MGG_08054		GO:0005576	PMID:30610168	IDA		C	Chitinase		protein	taxon:318829	20190930	PHI-base		
+UniProtKB	Q5NBT9	TPR1		GO:0005886	PMID:30610168	IDA		C	Protein TPR1	ASPR2|TPR2|Os01g0254100|LOC_Os01g15020|OsJ_01134|OSNPB_010254100|P0705D01.10-1	protein	taxon:4530	20191014	PHI-base		
+UniProtKB	G4MXR2	MGG_08054		GO:0140593	PMID:30610168	IMP		C	Chitinase		protein	taxon:318829	20210420	PHI-base		
+UniProtKB	A0A0L0V3D9	PSTG_12806		GO:0033652	PMID:31804478	IDA		C	Vegetative cell wall protein gp1-like		protein	taxon:27350	20200120	PHI-base		
+UniProtKB	Q7X9A6	petC		GO:0009507	PMID:31804478	IDA		C	Cytochrome b6-f complex iron-sulfur subunit, chloroplastic		protein	taxon:4565	20200302	PHI-base		
+UniProtKB	B4FQV3	100282745		GO:0005634	PMID:25888589	EXP		C	SGT1 disease resistance protein homolog1	ZEAMMB73_Zm00001d044172	protein	taxon:4577	20220422	PHI-base		
+UniProtKB	B4FQV3	100282745		GO:0005737	PMID:25888589	EXP		C	SGT1 disease resistance protein homolog1	ZEAMMB73_Zm00001d044172	protein	taxon:4577	20220422	PHI-base		
+UniProtKB	A0A0D1C8C8	See1		GO:0042025	PMID:25888589	EXP		C	Secreted effector protein See1	UMAG_02239	protein	taxon:5270	20220425	PHI-base		
+UniProtKB	A0A0D1C8C8	See1		GO:0030430	PMID:25888589	EXP		C	Secreted effector protein See1	UMAG_02239	protein	taxon:5270	20220425	PHI-base		
+UniProtKB	Q2KEJ2	HTR1		GO:0042025	PMID:33203871	EXP		C	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829|taxon:4530	20220520	PHI-base		
+UniProtKB	G5EHQ6	HTR2		GO:0042025	PMID:33203871	EXP		C	Host transcription reprogramming factor 2	MGCH7_ch7g1049|MGG_10280	protein	taxon:318829|taxon:4530	20220520	PHI-base		
+UniProtKB	Q2KEJ2	HTR1		GO:0005737	PMID:33203871	EXP		C	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829	20221121	PHI-base	part_of(conidium)	
+UniProtKB	Q2KEJ2	HTR1		GO:0085039	PMID:33203871	EXP		C	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829|taxon:4530	20221202	PHI-base		
+UniProtKB	G5EHQ6	HTR2		GO:0085039	PMID:33203871	EXP		C	Host transcription reprogramming factor 2	MGCH7_ch7g1049|MGG_10280	protein	taxon:318829|taxon:4530	20221202	PHI-base		
+UniProtKB	A0A385MIS5	Chi		GO:0008061	PMID:30220500	IDA		F	Chitinase-like effector		protein	taxon:153609	20181207	PHI-base		
+UniProtKB	A0A385MIS5	Chi	NOT	GO:0004568	PMID:30220500	IDA		F	Chitinase-like effector		protein	taxon:153609	20190121	PHI-base		
+UniProtKB	A0A0W0FPC8	Chi		GO:0008061	PMID:30220500	IDA		F	Chitinase-like effector	WG66_9206	protein	taxon:221103	20190121	PHI-base		
+UniProtKB	A0A0W0FPC8	Chi		GO:0004568	PMID:30220500	IDA		F	Chitinase-like effector	WG66_9206	protein	taxon:221103	20190121	PHI-base		
+UniProtKB	A0A385MIS5	Chi		GO:0140320	PMID:30220500	EXP		F	Chitinase-like effector		protein	taxon:153609	20190930	PHI-base	part_of(GO:0140423)	
+UniProtKB	A0A0W0EUL3	WG66_19681		GO:0004568	PMID:30220500	IDA		F	Putative chitinase		protein	taxon:221103	20191120	PHI-base		
+UniProtKB	A0A0W0EUL3	WG66_19681		GO:0140320	PMID:30220500	EXP		F	Putative chitinase		protein	taxon:221103	20191120	PHI-base	part_of(GO:0140423)	
+UniProtKB	F9XHX3	MYCGRDRAFT_105487		GO:0008061	PMID:21467214	IDA		F	LysM domain-containing protein		protein	taxon:1047171	20181212	PHI-base		
+UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0008061	PMID:21467214	IDA		F	Uncharacterized protein		protein	taxon:1047171	20181212	PHI-base		
+UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0140320	PMID:21467214	IDA		F	Uncharacterized protein		protein	taxon:1047171	20200713	PHI-base	has_input(CHEBI:17029),part_of(GO:0052034)	
+UniProtKB	O04678	P69B		GO:0008236	PMID:15096512	IDA		F	Subtilisin-like protease	p69b	protein	taxon:4081	20181214	PHI-base	occurs_in(GO:0048046),part_of(GO:0045087)	
+UniProtKB	D0MVC9	EPI1		GO:0004867	PMID:15096512	IDA		F	Extracellular protease inhibitor 1	PITG_22681	protein	taxon:4787	20191014	PHI-base	has_input(UniProtKB:O04678),part_of(GO:0140403),occurs_in(GO:0140593)	
+UniProtKB	A0A3B6RF20	A0A3B6RF20_WHEAT		GO:0038187	PMID:24073880	IMP		F	Protein kinase domain-containing protein		protein	taxon:4565	20181218	PHI-base	part_of(GO:0002752),part_of(GO:0009620)	
+UniProtKB	A0A076VC28	CEBiP		GO:0038187	PMID:24073880	IMP		F	Chitin elicitor binding protein		protein	taxon:4565	20181218	PHI-base	part_of(GO:0002752),part_of(GO:0009620)	
+UniProtKB	F9XHX3	MYCGRDRAFT_105487		GO:0008061	PMID:24073880	TAS		F	LysM domain-containing protein		protein	taxon:1047171	20191004	PHI-base		
+UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0008061	PMID:24073880	TAS		F	Uncharacterized protein		protein	taxon:1047171	20191004	PHI-base		
+UniProtKB	F9XHX3	MYCGRDRAFT_105487		GO:0140320	PMID:24073880	EXP		F	LysM domain-containing protein		protein	taxon:1047171	20191106	PHI-base	part_of(GO:0052034)	
+UniProtKB	F9XMT4	MYCGRDRAFT_111221		GO:0140320	PMID:24073880	EXP		F	Uncharacterized protein		protein	taxon:1047171	20191106	PHI-base	part_of(GO:0052034)	
+UniProtKB	I1S9X9	ATG9		GO:0005085	PMID:30044782	IPI	UniProtKB:A0A2H3HA93	F	Autophagy-related protein 9	FGRAMPH1_01T26133	protein	taxon:5518	20190111	PHI-base	part_of(GO:0061738)	
+UniProtKB	A0A2H3HA93	FGRA07_01288		GO:0003924	PMID:30044782	TAS		F	Ras-like protein Rab7	MDC_LOCUS215074	protein	taxon:5518	20190111	PHI-base	part_of(GO:0010506)	
+UniProtKB	A0A2H3HA93	FGRA07_01288		GO:0005515	PMID:30044782	IPI	UniProtKB:I1S9X9	F	Ras-like protein Rab7	MDC_LOCUS215074	protein	taxon:5518	20191106	PHI-base		
+UniProtKB	F4J339	RPP1		GO:0140376	PMID:20601497	EXP		F	Probable disease resistance protein RPP1	At3g44480|F14L2_30	protein	taxon:3702	20200313	PHI-base	has_input(UniProtKB:M4B6G6),part_of(GO:0002758)	
+UniProtKB	M4B6G6	ATR1		GO:0005515	PMID:20601497	IPI	UniProtKB:F4J339	F	Avirulence protein ATR1	ATR1-NdWsB	protein	taxon:272952	20200313	PHI-base	part_of(GO:0140418)	
+UniProtKB	A0A0D1DWQ2	CMU1		GO:0004106	PMID:30651637	IDA		F	Secreted chorismate mutase	UMAG_05731	protein	taxon:5270	20190125	PHI-base	part_of(GO:0140502)	
+UniProtKB	A0A1D6GNR3	KWL1		GO:0004857	PMID:30651637	IDA		F	Kiwellin-1	ZEAMMB73_Zm00001d013945	protein	taxon:4577	20200731	PHI-base	has_input(UniProtKB:A0A0D1DWQ2)	
+UniProtKB	F9X6V3	MYCGRDRAFT_91615		GO:0008897	PMID:30459352	IMP		F	Putative phosphopantetheinyl transferase		protein	taxon:1047171	20191105	PHI-base	has_direct_input(UniProtKB:F9X6V3)	
+UniProtKB	F9X701	MYCGRDRAFT_39611		GO:0004043	PMID:30459352	IMP		F	AAR2 domain-containing protein		protein	taxon:1047171	20191105	PHI-base		
+UniProtKB	A9JX75	Tox1		GO:0008061	PMID:22241993	TAS		F	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20190426	PHI-base		
+UniProtKB	A9JX75	Tox1		GO:0140295	PMID:22241993	EXP		F	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20191023	PHI-base	has_input(UniProtKB:W5AB81),part_of(GO:0080185)	
+UniProtKB	W5AB81	Snn1		GO:0038023	PMID:22241993	EXP		F	SnTox1 sensitivity protein		protein	taxon:4565	20200424	PHI-base		
+UniProtKB	F9WWD1	GT2		GO:0016757	PMID:29020037	TAS		F	Type 2 glycosyltransferase	MYCGRDRAFT_65552	protein	taxon:1047171	20190606	PHI-base		
+UniProtKB	I1RRW0	PEX4		GO:0061631	PMID:30603875	TAS		F	Ubiquitin-conjugating enzyme E2 PEX4	FG06857|FGRAMPH1_01T23345	protein	taxon:5518	20190515	PHI-base		
+UniProtKB	Q8TG19	MGV1		GO:0004707	PMID:30603875	TAS		F	Mitogen-activated protein kinase	FGRA07_06476|FUG_LOCUS34973|MDC_LOCUS58830|MDCFG593_LOCUS126519|MDCFG851_LOCUS45753	protein	taxon:5518	20191203	PHI-base		
+UniProtKB	G4MY67	RAM1	contributes_to	GO:0004660	PMID:31250536	EXP		F	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20191105	PHI-base	part_of(GO:0061951),has_input(UniProtKB:G4MZY8)	
+UniProtKB	G4MY67	RAM1		GO:0005515	PMID:31250536	IPI	UniProtKB:G4MZY8	F	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20191105	PHI-base		
+UniProtKB	G4MY67	RAM1		GO:0005515	PMID:31250536	IPI	UniProtKB:G4N1S3	F	Protein farnesyltransferase subunit beta	MGG_01287	protein	taxon:318829	20191105	PHI-base		
+UniProtKB	P54291	rhlI		GO:0061579	PMID:28715477	TAS		F	Acyl-homoserine-lactone synthase	vsmI|PA3476	protein	taxon:287	20190819	PHI-base	part_of(GO:0120218)	
+UniProtKB	P54292	rhlR		GO:0038023	PMID:28715477	TAS		F	HTH-type quorum-sensing regulator RhlR	lasM|vsmR|PA3477	protein	taxon:287	20190819	PHI-base	has_input(CHEBI:17289),part_of(GO:0120218)	
+UniProtKB	P54292	rhlR		GO:0003700	PMID:28715477	TAS		F	HTH-type quorum-sensing regulator RhlR	lasM|vsmR|PA3477	protein	taxon:287	20191106	PHI-base	part_of(GO:0120218)	
+UniProtKB	A0A0K6FU48	RSOLAG22IIIB_04067		GO:0008061	PMID:31076860	IDA		F	Carbohydrate-binding module family 50 protein		protein	taxon:456999	20191202	PHI-base		
+UniProtKB	A0A0K6FU48	RSOLAG22IIIB_04067		GO:0140319	PMID:31076860	IDA		F	Carbohydrate-binding module family 50 protein		protein	taxon:456999	20210125	PHI-base	part_of(GO:0140423)	
+UniProtKB	G4MXR2	MGG_08054		GO:0004568	PMID:30610168	IDA		F	Chitinase		protein	taxon:318829	20190930	PHI-base	part_of(GO:0048315)	
+UniProtKB	G4MXR2	MGG_08054		GO:0008061	PMID:30610168	IDA		F	Chitinase		protein	taxon:318829	20191014	PHI-base		
+UniProtKB	G4MXR2	MGG_08054		GO:0140320	PMID:30610168	IDA		F	Chitinase		protein	taxon:318829	20191014	PHI-base	part_of(GO:0052034),occurs_in(GO:0140593)	
+UniProtKB	Q5NBT9	TPR1		GO:0140311	PMID:30610168	IPI	UniProtKB:G4MXR2	F	Protein TPR1	ASPR2|TPR2|Os01g0254100|LOC_Os01g15020|OsJ_01134|OSNPB_010254100|P0705D01.10-1	protein	taxon:4530	20200120	PHI-base	has_input(MGG_08054),part_of(GO:0062208),occurs_in(GO:0048046)	
+UniProtKB	P05231	IL6		GO:0005125	PMID:28720735	TAS		F	Interleukin-6	IFNB2	protein	taxon:9606	20191007	PHI-base		
+UniProtKB	P01584	IL1B		GO:0005125	PMID:28720735	TAS		F	Interleukin-1 beta	IL1F2	protein	taxon:9606	20191007	PHI-base		
+UniProtKB	Q4X1W0	pptA		GO:0008897	PMID:28720735	IDA		F	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base		
+UniProtKB	B8NFL5	cyp51B		GO:0008398	PMID:22314539	TAS		F	Sterol 14-alpha demethylase	AFLA_131060	protein	taxon:5059	20191104	PHI-base		
+UniProtKB	B8N2C8	cyp51A		GO:0008398	PMID:22314539	TAS		F	Sterol 14-alpha demethylase	AFLA_036130	protein	taxon:5059	20191104	PHI-base		
+UniProtKB	B8NUK6	cyp51c		GO:0008398	PMID:22314539	TAS		F	Sterol 14-alpha demethylase	AFLA_100590	protein	taxon:5059	20191104	PHI-base		
+UniProtKB	F2SG60	MDR3		GO:0140394	PMID:31501141	IMP		F	ABC multidrug transporter MDR3	TERG_02186	protein	taxon:5551	20191105	PHI-base	part_of(GO:1990961)	
+UniProtKB	G4MWY1	GT2		GO:0016757	PMID:31484736	IMP		F	Type 2 glycosyltransferase	MGG_01191	protein	taxon:318829	20191217	PHI-base		
+UniProtKB	Q5I6L8	Q5I6L8_SOLTU		GO:0140376	PMID:16965554	IDA		F	Potato late blight resistance protein R3a		protein	taxon:4113|taxon:4787	20210823	PHI-base		
+UniProtKB	Q2PEP0	noxA		GO:0016175	PMID:16517760	TAS		F	NADPH oxidase		protein	taxon:35717	20191204	PHI-base		
+UniProtKB	Q2PEN8	noxB		GO:0016175	PMID:16517760	TAS		F	NADPH oxidase		protein	taxon:35717	20191210	PHI-base		
+UniProtKB	A0A0L0V3D9	PSTG_12806		GO:0005515	PMID:31804478	IPI	UniProtKB:Q7X9A6	F	Vegetative cell wall protein gp1-like		protein	taxon:27350	20200129	PHI-base	part_of(GO:0052034)	
+UniProtKB	A0A0L0V3D9	PSTG_12806		GO:0004857	PMID:31804478	IPI	UniProtKB:Q7X9A6	F	Vegetative cell wall protein gp1-like		protein	taxon:27350	20200302	PHI-base	has_regulation_target(UniProtKB:Q7X9A6),occurs_at(host cell chloroplast),part_of(GO:0052034)	
+UniProtKB	Q7X9A6	petC		GO:0009496	PMID:31804478	IDA		F	Cytochrome b6-f complex iron-sulfur subunit, chloroplastic		protein	taxon:4565	20200302	PHI-base	part_of(GO:0009767)	
+UniProtKB	Q00363	AVR4		GO:0008061	PMID:30148881	IDA		F	Race-specific elicitor A4		protein	taxon:5499	20200720	PHI-base		
+UniProtKB	Q00363	AVR4		GO:0140320	PMID:30148881	EXP		F	Race-specific elicitor A4		protein	taxon:5499	20200720	PHI-base	has_input(CHEBI:17029),part_of(GO:0140403)	
+UniProtKB	A0JC82	noxR		GO:0016176	PMID:17041146	IMP		F	NADPH oxidase regulator NoxR		protein	taxon:35717	20200205	PHI-base	has_regulation_target(UniProtKB:Q2PEP0),part_of(GO:0052170)	
+UniProtKB	Q2PEP0	noxA		GO:0016175	PMID:17041146	TAS		F	NADPH oxidase		protein	taxon:35717	20200205	PHI-base	part_of(GO:0052170)	
+UniProtKB	A0JC80	racA		GO:0005515	PMID:17041146	IPI	UniProtKB:A0JC82	F	RacA		protein	taxon:35717	20200205	PHI-base	part_of(GO:0052170)	
+UniProtKB	Q8X1A2	pmk1		GO:0004707	PMID:18179606	TAS		F	Mitogen-activated protein kinase		protein	taxon:5518	20200225	PHI-base	part_of(GO:0000165)	
+UniProtKB	Q00909	TRI5		GO:0045482	PMID:18179606	IMP		F	Trichodiene synthase	FGRRES_03537|FGSG_03537	protein	taxon:5518	20200225	PHI-base	part_of(GO:0106110)	
+UniProtKB	A0A1D5VHV3	stb6		GO:0004672	PMID:29434355	IDA		F	Non-specific serine/threonine protein kinase	Stb6|WAKL4|TAATGACV1_Stb6|TAECS673A7_Stb6	protein	taxon:4565	20200226	PHI-base	has_input(UniProtKB:A0A1D5VHV3)	
+UniProtKB	W5AB81	Snn1		GO:0038023	PMID:27819043	EXP		F	SnTox1 sensitivity protein		protein	taxon:4565	20210122	PHI-base		
+UniProtKB	A9JX75	Tox1		GO:0140295	PMID:27819043	EXP		F	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20210122	PHI-base	part_of(GO:0080185),has_input(binds (UniProt:W5AB81))	
+UniProtKB	Q9M6Q9	Q9M6Q9_TOBAC		GO:0004707	PMID:25888589	IDA		F	MAP kinase kinase		protein	taxon:4097	20220425	PHI-base	happens_during(GO:0098542)	
+UniProtKB	Q9AXI8	MEK2		GO:0004707	PMID:25888589	IDA		F	Mitogen-activated protein kinase 2		protein	taxon:4097	20220429	PHI-base	has_input(UniProtKB:Q9M6Q9)	
+UniProtKB	Q2KEJ2	HTR1		GO:0003677	PMID:33203871	IDA		F	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829|taxon:4530	20220520	PHI-base	occurs_in(SO:0001659),occurs_in(GO:0042025),part_of(GO:0140403)	
+UniProtKB	G5EHQ6	HTR2		GO:0003677	PMID:33203871	IDA		F	Host transcription reprogramming factor 2	MGCH7_ch7g1049|MGG_10280	protein	taxon:318829|taxon:4530	20220520	PHI-base	occurs_in(SO:0001659),occurs_in(GO:0042025),part_of(GO:0140403)	
+UniProtKB	Q2KEJ2	HTR1		GO:0001227	PMID:33203871	EXP		F	Host transcription reprogramming factor 1	MGCH7_ch7g1044|MGG_10276	protein	taxon:318829|taxon:4530	20220520	PHI-base	occurs_in(GO:0042025),part_of(GO:0140403)	
+UniProtKB	G5EHQ6	HTR2		GO:0001227	PMID:33203871	EXP		F	Host transcription reprogramming factor 2	MGCH7_ch7g1049|MGG_10280	protein	taxon:318829|taxon:4530	20220520	PHI-base	occurs_in(GO:0042025),part_of(GO:0140403)	
+UniProtKB	Q873W7	Erg27		GO:0045703	PMID:18779358	TAS		F	3-ketosteroid reductase		protein	taxon:40559	20230303	PHI-base	part_of(GO:0006696)	
