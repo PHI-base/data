@@ -11,7 +11,7 @@ information captured by the extensions to other columns in the GAF.
 __author__ = "James Seager"
 __email__ = "james.seager@rothamsted.ac.uk"
 __license__ = "GNU GPLv3"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 import csv
 import re
@@ -33,7 +33,7 @@ def read_gaf_file(path):
     rows = []
     with open(path) as gaf_file:
         header_lines, gaf_file = read_header_lines(gaf_file)
-        reader = csv.DictReader(gaf_file, fields, dialect=csv.excel_tab)
+        reader = csv.DictReader(gaf_file, fields, dialect='gaf')
         for row in reader:
             rows.append(row)
     return (header_lines, rows)
@@ -64,7 +64,7 @@ def process_gaf_data(gaf_data):
 def write_gaf_file(path, header_lines, rows):
     with open(path, 'w+') as gaf_file:
         gaf_file.writelines(header_lines)
-        writer = csv.DictWriter(gaf_file, fields, dialect=csv.excel_tab)
+        writer = csv.DictWriter(gaf_file, fields, dialect='gaf')
         writer.writerows(rows)
 
 
@@ -125,4 +125,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
     # Overwrite input file if no output file is specified
     out_path = args.output or args.input
+    csv.register_dialect('gaf', delimiter='\t', lineterminator='\n', quoting=csv.QUOTE_NONE)
     process_gaf_file(args.input, out_path)
