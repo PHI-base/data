@@ -63,6 +63,7 @@
 83560,"Chlamydia muridarum","agent of mouse pneumonitis"
 83558,"Chlamydia pneumoniae",
 813,"Chlamydia trachomatis",
+536,"Chromobacterium violaceum",
 67825,"Citrobacter rodentium",
 28447,"Clavibacter michiganensis",
 5111,"Claviceps purpurea","ergot fungus"
@@ -182,6 +183,7 @@
 55208,"Pectobacterium wasabiae",
 36651,"Penicillium digitatum",
 27334,"Penicillium expansum",
+40296,"Penicillium italicum",
 230439,"Peronospora tabacina",
 38293,"Photobacterium damselae",
 29488,"Photorhabdus luminescens",
@@ -227,6 +229,7 @@
 615,"Serratia marcescens",
 93612,"Setosphaeria turcica","northern corn leaf blight"
 623,"Shigella flexneri",
+29908,"Sporothrix schenckii",
 1280,"Staphylococcus aureus",
 1282,"Staphylococcus epidermidis",
 28035,"Staphylococcus lugdunensis",

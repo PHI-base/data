@@ -2,6 +2,7 @@
 5755,"Acanthamoeba castellanii",
 5757,"Acanthamoeba polyphaga",
 61970,"Acipenser sinensis","Chinese sturgeon"
+64478,"Actinidia arguta",
 3625,"Actinidia chinensis",
 7029,"Acyrthosiphon pisum","pea aphid"
 7084,"Adalia bipunctata","two-spotted ladybird beetle"
@@ -67,6 +68,7 @@
 2567903,"Coturnix coromandelica","rain quail"
 29159,"Crassostrea gigas","Pacific oyster"
 6565,"Crassostrea virginica","eastern oyster"
+7959,"Ctenopharyngodon idella","grass carp"
 39473,"Cucumis anguria","gherkin"
 3656,"Cucumis melo","muskmelon"
 3659,"Cucumis sativus","cucumber"
@@ -76,6 +78,7 @@
 28977,"Cunninghamia lanceolata","China fir"
 4265,"Cynara cardunculus","wild artichoke"
 244447,"Cynoglossus semilaevis","tongue sole"
+7962,"Cyprinus carpio","common carp"
 7955,"Danio rerio","zebrafish"
 35525,"Daphnia magna",
 4039,"Daucus carota","carrot"
@@ -90,6 +93,7 @@
 4606,"Festuca arundinacea","tall fescue"
 4608,"Festuca pratensis","meadow ryegrass"
 3747,"Fragaria ananassa","strawberry"
+38873,"Fraxinus excelsior","European ash"
 7137,"Galleria mellonella","greater wax moth"
 9031,"Gallus gallus","chicken"
 3847,"Glycine max","soybean"
@@ -119,6 +123,7 @@
 3750,"Malus domestica","apple"
 106564,"Malus prunifolia",
 283210,"Malus pumila","paradise apple"
+52837,"Mandevilla sanderi","Mexican love vine"
 7130,"Manduca sexta","tobacco hornworm"
 29780,"Mangifera indica","mango"
 3983,"Manihot esculenta","cassava"
@@ -174,6 +179,7 @@
 3726,"Raphanus sativus","radish"
 10116,"Rattus norvegicus","Norway rat"
 10117,"Rattus rattus","black rat"
+49838,"Retama sphaerocarpa",
 2843217,"Rhaphiolepis bibas","loquat"
 6941,"Rhipicephalus microplus","southern cattle tick"
 5537,"Rhodotorula mucilaginosa",
@@ -191,6 +197,7 @@
 4082,"Solanum peruvianum","Peruvian tomato"
 119830,"Solanum torvum","turkey berry"
 4113,"Solanum tuberosum","potato"
+28829,"Solea senegalensis","Senegalese sole"
 4558,"Sorghum bicolor","sorghum"
 7107,"Spodoptera exigua","beet armyworm"
 7108,"Spodoptera frugiperda","fall armyworm"
@@ -207,8 +214,10 @@
 4566,"Triticum aestivum x Triticum timopheevi",
 4571,"Triticum turgidum","poulard wheat"
 3906,"Vicia faba","fava bean"
+3917,"Vigna unguiculata","cowpea"
 29760,"Vitis vinifera","wine grape"
 163159,"Xenopsylla cheopis","oriental rat flea"
 69721,"Zantedeschia aethiopica","pig-lily"
 94108,"Zantedeschia elliotiana",
 4577,"Zea mays","maize"
+326968,"Ziziphus jujuba","common jujube"
