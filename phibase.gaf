@@ -116,6 +116,7 @@ UniProtKB	P54292	rhlR		GO:0038023	PMID:28715477	TAS		F	HTH-type quorum-sensing r
 UniProtKB	P54292	rhlR		GO:0003700	PMID:28715477	TAS		F	HTH-type quorum-sensing regulator RhlR	lasM|vsmR|PA3477	protein	taxon:287	20191106	PHI-base	part_of(GO:0120218)
 UniProtKB	Q9M6Q9	Q9M6Q9_TOBAC		GO:0004707	PMID:25888589	IDA		F	MAP kinase kinase		protein	taxon:4097	20220425	PHI-base	happens_during(GO:0098542)
 UniProtKB	Q9AXI8	MEK2		GO:0004707	PMID:25888589	IDA		F	Mitogen-activated protein kinase 2		protein	taxon:4097	20220429	PHI-base	has_input(UniProtKB:Q9M6Q9)
+UniProtKB	P14756	lasB		GO:0004175	PMID:33510733	IDA		F	Elastase	PA3724	protein	taxon:287	20230711	PHI-base	
 UniProtKB	P05231	IL6		GO:0005125	PMID:28720735	TAS		F	Interleukin-6	IFNB2	protein	taxon:9606	20191007	PHI-base	
 UniProtKB	P01584	IL1B		GO:0005125	PMID:28720735	TAS		F	Interleukin-1 beta	IL1F2	protein	taxon:9606	20191007	PHI-base	
 UniProtKB	Q4X1W0	pptA		GO:0008897	PMID:28720735	IDA		F	4'-phosphopantetheinyl transferase A	AFUA_2G08590	protein	taxon:746128	20210301	PHI-base	
@@ -138,7 +139,7 @@ UniProtKB	A0A1D5VHV3	stb6		GO:0004672	PMID:29434355	IDA		F	Non-specific serine/t
 UniProtKB	Q00363	AVR4		GO:0008061	PMID:30148881	IDA		F	Race-specific elicitor A4		protein	taxon:5499	20200720	PHI-base	
 UniProtKB	Q00363	AVR4		GO:0140320	PMID:30148881	EXP		F	Race-specific elicitor A4		protein	taxon:5499	20200720	PHI-base	has_input(CHEBI:17029),part_of(GO:0140403)
 UniProtKB	W5AB81	Snn1		GO:0038023	PMID:27819043	EXP		F	SnTox1 sensitivity protein		protein	taxon:4565	20210122	PHI-base	
-UniProtKB	A9JX75	Tox1		GO:0140295	PMID:27819043	EXP		F	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20210122	PHI-base	part_of(GO:0080185),has_input(UniProt:W5AB81)
+UniProtKB	A9JX75	Tox1		GO:0140295	PMID:27819043	EXP		F	Cysteine rich necrotrophic effector Tox1	SNOG_20078	protein	taxon:13684	20210122	PHI-base	part_of(GO:0080185),has_input(UniProtKB:W5AB81)
 UniProtKB	Q873W7	Erg27		GO:0045703	PMID:18779358	TAS		F	3-ketosteroid reductase		protein	taxon:40559	20230303	PHI-base	part_of(GO:0006696)
 UniProtKB	G4MXR2	MGG_08054		GO:0004568	PMID:30610168	IDA		F	Chitinase		protein	taxon:318829	20190930	PHI-base	part_of(GO:0048315)
 UniProtKB	G4MXR2	MGG_08054		GO:0008061	PMID:30610168	IDA		F	Chitinase		protein	taxon:318829	20191014	PHI-base	
