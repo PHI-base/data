@@ -92,7 +92,6 @@ fields = [
     'date',
     'assigned_by',
     'annotation_extension',
-    'gene_product_form_id',
 ]
 
 if __name__ == '__main__':
