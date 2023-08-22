@@ -93,6 +93,7 @@ fields = [
     'assigned_by',
     'annotation_extension',
 ]
+csv.register_dialect('gaf', delimiter='\t', lineterminator='\n', quoting=csv.QUOTE_NONE)
 
 if __name__ == '__main__':
     def get_arg_parser():
@@ -124,5 +125,4 @@ if __name__ == '__main__':
     args = parser.parse_args()
     # Overwrite input file if no output file is specified
     out_path = args.output or args.input
-    csv.register_dialect('gaf', delimiter='\t', lineterminator='\n', quoting=csv.QUOTE_NONE)
     process_gaf_file(args.input, out_path)
