@@ -1,223 +1,223 @@
-"ncbi_taxid","scientific_name","common_name"
-5755,"Acanthamoeba castellanii",
-5757,"Acanthamoeba polyphaga",
-61970,"Acipenser sinensis","Chinese sturgeon"
-64478,"Actinidia arguta",
-3625,"Actinidia chinensis",
-7029,"Acyrthosiphon pisum","pea aphid"
-7084,"Adalia bipunctata","two-spotted ladybird beetle"
-7159,"Aedes aegypti","yellow fever mosquito"
-108276,"Aeschynomene virginica",
-5341,"Agaricus bisporus","cultivated mushroom"
-176616,"Ageratina adenophora",
-4679,"Allium cepa","onion"
-8839,"Anas platyrhynchos","mallard"
-7936,"Anguilla anguilla","European eel"
-30069,"Anopheles stephensi","Asian malaria mosquito"
-226677,"Anthurium andraeanum","oilcloth-flower"
-7460,"Apis mellifera","honey bee"
-4045,"Apium graveolens",
-3702,"Arabidopsis thaliana","thale cress"
-3818,"Arachis hypogaea","peanut"
-6661,"Artemia franciscana","brine shrimp"
-85549,"Artemia salina",
-39291,"Athelia rolfsii",
-4498,"Avena sativa","oat"
-38783,"Avena strigosa","black oat"
-28974,"Averrhoa carambola",
-161934,"Beta vulgaris","sugar beet"
-7091,"Bombyx mori","domestic silkworm"
-9913,"Bos taurus","cattle"
-15368,"Brachypodium distachyon","stiff brome"
-52824,"Brassica carinata","Ethiopian mustard"
-3707,"Brassica juncea","brown mustard"
-3708,"Brassica napus","rape"
-3712,"Brassica oleracea","wild cabbage"
-3711,"Brassica rapa","field mustard"
-6239,"Caenorhabditis elegans","roundworm"
-9612,"Canis lupus","gray wolf"
-4072,"Capsicum annuum",
-4073,"Capsicum frutescens","hot pepper"
-217509,"Carassius carassius","crucian carp"
-134033,"Castanea dentata","American chestnut"
-60419,"Castanea mollissima","Chinese chestnut"
-21020,"Castanea sativa","European chestnut"
-10141,"Cavia porcellus","domestic guinea pig"
-63459,"Chenopodium quinoa","quinoa"
-10152,"Chinchilla chinchilla","short-tailed chinchilla"
-34839,"Chinchilla lanigera","long-tailed chinchilla"
-9534,"Chlorocebus aethiops","grivet"
-41568,"Chrysanthemum x morifolium","mum"
-189513,"Chrysoperla carnea",
-3827,"Cicer arietinum","chickpea"
-13427,"Cichorium intybus","chicory"
-3654,"Citrullus lanatus","wild melon"
-159033,"Citrus aurantiifolia","lime"
-79217,"Citrus iyo",
-64884,"Citrus jambhiri","rough lemon"
-2708,"Citrus limon","lemon"
-171249,"Citrus limonia","yi mu zi"
-37656,"Citrus paradisi","grapefruit"
-85571,"Citrus reticulata","tangerine"
-2711,"Citrus sinensis","sweet orange"
-55188,"Citrus unshiu","satsuma mandarin"
-164113,"Citrus x microcarpa","calamondin"
-229630,"Citrus x tangelo",
-269719,"Cotinus coggygria","smokebush"
-292731,"Cotinus obovatus",
-2567903,"Coturnix coromandelica","rain quail"
-29159,"Crassostrea gigas","Pacific oyster"
-6565,"Crassostrea virginica","eastern oyster"
-7959,"Ctenopharyngodon idella","grass carp"
-39473,"Cucumis anguria","gherkin"
-3656,"Cucumis melo","muskmelon"
-3659,"Cucumis sativus","cucumber"
-3661,"Cucurbita maxima","winter squash"
-3662,"Cucurbita moschata","crookneck pumpkin"
-3663,"Cucurbita pepo","vegetable marrow"
-28977,"Cunninghamia lanceolata","China fir"
-4265,"Cynara cardunculus","wild artichoke"
-244447,"Cynoglossus semilaevis","tongue sole"
-7962,"Cyprinus carpio","common carp"
-7955,"Danio rerio","zebrafish"
-35525,"Daphnia magna",
-4039,"Daucus carota","carrot"
-3570,"Dianthus caryophyllus","clove pink"
-44689,"Dictyostelium discoideum",
-7227,"Drosophila melanogaster","fruit fly"
-685034,"Dysdercus peruvianus",
-6396,"Eisenia fetida","common brandling worm"
-9796,"Equus caballus","horse"
-38414,"Eragrostis curvula","weeping love grass"
-32224,"Eriobotrya japonica","loquat"
-4606,"Festuca arundinacea","tall fescue"
-4608,"Festuca pratensis","meadow ryegrass"
-3747,"Fragaria ananassa","strawberry"
-38873,"Fraxinus excelsior","European ash"
-7137,"Galleria mellonella","greater wax moth"
-9031,"Gallus gallus","chicken"
-3847,"Glycine max","soybean"
-3634,"Gossypium barbadense","sea-island cotton"
-3635,"Gossypium hirsutum","cotton"
-6999,"Gryllus bimaculatus","two-spotted cricket"
-4232,"Helianthus annuus","common sunflower"
-29058,"Helicoverpa armigera","cotton bollworm"
-3981,"Hevea brasiliensis","para rubber tree"
-9606,"Homo sapiens","human"
-4513,"Hordeum vulgare","barley"
-336126,"Hylocereus trigonus","strawberry-pear"
-7998,"Ictalurus punctatus","channel catfish"
-6945,"Ixodes scapularis","black-legged tick"
-23013,"Kalanchoe daigremontiana","devil's backbone"
-4236,"Lactuca sativa","garden lettuce"
-4472,"Lemna minor",
-3864,"Lens culinaris","lentil"
-4006,"Linum usitatissimum","flax"
-215539,"Liriodendron chinense x Liriodendron tulipifera",
-7004,"Locusta migratoria","migratory locust"
-4521,"Lolium multiflorum","Italian ryegrass"
-4522,"Lolium perenne","perennial ryegrass"
-7200,"Lutzomyia longipalpis",
-9541,"Macaca fascicularis","crab-eating macaque"
-74068,"Macrosteles quadrilineatus","aster leafhopper"
-3750,"Malus domestica","apple"
-106564,"Malus prunifolia",
-283210,"Malus pumila","paradise apple"
-52837,"Mandevilla sanderi","Mexican love vine"
-7130,"Manduca sexta","tobacco hornworm"
-29780,"Mangifera indica","mango"
-3983,"Manihot esculenta","cassava"
-3879,"Medicago sativa","lucerne"
-3880,"Medicago truncatula","barrel medic"
-10047,"Meriones unguiculatus","Mongolian gerbil"
-10036,"Mesocricetus auratus","golden hamster"
-10090,"Mus musculus","house mouse"
-4641,"Musa acuminata","dwarf banana"
-89151,"Musa paradisiaca","French plantain banana"
-63479,"Nerium oleander","common oleander"
-4100,"Nicotiana benthamiana",
-4091,"Nicotiana otophora",
-62141,"Nicotiana paniculata",
-4096,"Nicotiana sylvestris","wood tobacco"
-4097,"Nicotiana tabacum","common tobacco"
-4146,"Olea europaea","common olive"
-8019,"Oncorhynchus kisutch","coho salmon"
-8022,"Oncorhynchus mykiss","rainbow trout"
-8128,"Oreochromis niloticus","nile tilapia"
-9986,"Oryctolagus cuniculus","rabbit"
-4530,"Oryza sativa","rice"
-9940,"Ovis aries","sheep"
-8255,"Paralichthys olivaceus","Japanese flounder"
-4031,"Pelargonium hortorum","common geranium"
-6687,"Penaeus monodon","black tiger shrimp"
-6689,"Penaeus vannamei","Pacific white shrimp"
-6978,"Periplaneta americana","American cockroach"
-3435,"Persea americana","avocado"
-4043,"Petroselinum crispum","parsley"
-3885,"Phaseolus vulgaris","string bean"
-7116,"Pieris brassicae","large cabbage white"
-90988,"Pimephales promelas","fathead minnow"
-3339,"Pinus contorta","lodgepole pine"
-88730,"Pinus massoniana","Chinese red pine"
-3349,"Pinus sylvestris","Scots pine"
-3350,"Pinus thunbergii","Japanese black pine"
-3888,"Pisum sativum","pea"
-51655,"Plutella xylostella","diamondback moth"
-43335,"Populus alba","xin bai yang"
-3690,"Populus canadensis","Canadian poplar"
-1217306,"Populus x beijingensis",
-9310,"Potorous tridactylus","long-nosed potoroo"
-122118,"Prunus americana","goose plum"
-36596,"Prunus armeniaca","apricot"
-42229,"Prunus avium","sweet cherry"
-3758,"Prunus domestica","plum"
-3755,"Prunus dulcis","almond"
-3760,"Prunus persica","peach"
-22663,"Punica granatum","pomegranate"
-23211,"Pyrus communis","pear"
-3767,"Pyrus pyrifolia","sha li"
-3726,"Raphanus sativus","radish"
-10116,"Rattus norvegicus","Norway rat"
-10117,"Rattus rattus","black rat"
-49838,"Retama sphaerocarpa",
-2843217,"Rhaphiolepis bibas","loquat"
-6941,"Rhipicephalus microplus","southern cattle tick"
-5537,"Rhodotorula mucilaginosa",
-329032,"Riptortus pedestris",
-267246,"Rosa odorata","tea rose"
-4547,"Saccharum officinarum","sugarcane"
-52904,"Scophthalmus maximus","turbot"
-4550,"Secale cereale","rye"
-7048,"Sitophilus oryzae","rice weevil"
-4108,"Solanum chacoense","chaco potato"
-856898,"Solanum huancabambense",
-4081,"Solanum lycopersicum","tomato"
-4111,"Solanum melongena","eggplant"
-73574,"Solanum microdontum",
-4082,"Solanum peruvianum","Peruvian tomato"
-119830,"Solanum torvum","turkey berry"
-4113,"Solanum tuberosum","potato"
-28829,"Solea senegalensis","Senegalese sole"
-4558,"Sorghum bicolor","sorghum"
-7107,"Spodoptera exigua","beet armyworm"
-7108,"Spodoptera frugiperda","fall armyworm"
-7109,"Spodoptera littoralis","African cotton leafworm"
-62615,"Stylosanthes guianensis","stylo"
-9823,"Sus scrofa","pig"
-13708,"Tagetes erecta","African marigold"
-7067,"Tenebrio molitor","yellow mealworm"
-3641,"Theobroma cacao","cacao"
-7070,"Tribolium castaneum","red flour beetle"
-96903,"Trichogaster trichopterus","three spot gourami"
-7111,"Trichoplusia ni","cabbage looper"
-4565,"Triticum aestivum","bread wheat"
-4566,"Triticum aestivum x Triticum timopheevi",
-4571,"Triticum turgidum","poulard wheat"
-3906,"Vicia faba","fava bean"
-3917,"Vigna unguiculata","cowpea"
-29760,"Vitis vinifera","wine grape"
-163159,"Xenopsylla cheopis","oriental rat flea"
-69721,"Zantedeschia aethiopica","pig-lily"
-94108,"Zantedeschia elliotiana",
-4577,"Zea mays","maize"
-326968,"Ziziphus jujuba","common jujube"
+ncbi_taxid,scientific_name,common_name
+5755,Acanthamoeba castellanii,
+5757,Acanthamoeba polyphaga,
+61970,Acipenser sinensis,Chinese sturgeon
+64478,Actinidia arguta,
+3625,Actinidia chinensis,
+7029,Acyrthosiphon pisum,pea aphid
+7084,Adalia bipunctata,two-spotted ladybird beetle
+7159,Aedes aegypti,yellow fever mosquito
+108276,Aeschynomene virginica,
+5341,Agaricus bisporus,cultivated mushroom
+176616,Ageratina adenophora,
+4679,Allium cepa,onion
+8839,Anas platyrhynchos,mallard
+7936,Anguilla anguilla,European eel
+30069,Anopheles stephensi,Asian malaria mosquito
+226677,Anthurium andraeanum,oilcloth-flower
+7460,Apis mellifera,honey bee
+4045,Apium graveolens,
+3702,Arabidopsis thaliana,thale cress
+3818,Arachis hypogaea,peanut
+6661,Artemia franciscana,brine shrimp
+85549,Artemia salina,
+39291,Athelia rolfsii,
+4498,Avena sativa,oat
+38783,Avena strigosa,black oat
+28974,Averrhoa carambola,
+161934,Beta vulgaris,sugar beet
+7091,Bombyx mori,domestic silkworm
+9913,Bos taurus,cattle
+15368,Brachypodium distachyon,stiff brome
+52824,Brassica carinata,Ethiopian mustard
+3707,Brassica juncea,brown mustard
+3708,Brassica napus,rape
+3712,Brassica oleracea,wild cabbage
+3711,Brassica rapa,field mustard
+6239,Caenorhabditis elegans,roundworm
+9612,Canis lupus,gray wolf
+4072,Capsicum annuum,
+4073,Capsicum frutescens,hot pepper
+217509,Carassius carassius,crucian carp
+134033,Castanea dentata,American chestnut
+60419,Castanea mollissima,Chinese chestnut
+21020,Castanea sativa,European chestnut
+10141,Cavia porcellus,domestic guinea pig
+63459,Chenopodium quinoa,quinoa
+10152,Chinchilla chinchilla,short-tailed chinchilla
+34839,Chinchilla lanigera,long-tailed chinchilla
+9534,Chlorocebus aethiops,grivet
+41568,Chrysanthemum x morifolium,mum
+189513,Chrysoperla carnea,
+3827,Cicer arietinum,chickpea
+13427,Cichorium intybus,chicory
+3654,Citrullus lanatus,wild melon
+159033,Citrus aurantiifolia,lime
+79217,Citrus iyo,
+64884,Citrus jambhiri,rough lemon
+2708,Citrus limon,lemon
+171249,Citrus limonia,yi mu zi
+37656,Citrus paradisi,grapefruit
+85571,Citrus reticulata,tangerine
+2711,Citrus sinensis,sweet orange
+55188,Citrus unshiu,satsuma mandarin
+164113,Citrus x microcarpa,calamondin
+229630,Citrus x tangelo,
+269719,Cotinus coggygria,smokebush
+292731,Cotinus obovatus,
+2567903,Coturnix coromandelica,rain quail
+29159,Crassostrea gigas,Pacific oyster
+6565,Crassostrea virginica,eastern oyster
+7959,Ctenopharyngodon idella,grass carp
+39473,Cucumis anguria,gherkin
+3656,Cucumis melo,muskmelon
+3659,Cucumis sativus,cucumber
+3661,Cucurbita maxima,winter squash
+3662,Cucurbita moschata,crookneck pumpkin
+3663,Cucurbita pepo,vegetable marrow
+28977,Cunninghamia lanceolata,China fir
+4265,Cynara cardunculus,wild artichoke
+244447,Cynoglossus semilaevis,tongue sole
+7962,Cyprinus carpio,common carp
+7955,Danio rerio,zebrafish
+35525,Daphnia magna,
+4039,Daucus carota,carrot
+3570,Dianthus caryophyllus,clove pink
+44689,Dictyostelium discoideum,
+7227,Drosophila melanogaster,fruit fly
+685034,Dysdercus peruvianus,
+6396,Eisenia fetida,common brandling worm
+9796,Equus caballus,horse
+38414,Eragrostis curvula,weeping love grass
+32224,Eriobotrya japonica,loquat
+4606,Festuca arundinacea,tall fescue
+4608,Festuca pratensis,meadow ryegrass
+3747,Fragaria ananassa,strawberry
+38873,Fraxinus excelsior,European ash
+7137,Galleria mellonella,greater wax moth
+9031,Gallus gallus,chicken
+3847,Glycine max,soybean
+3634,Gossypium barbadense,sea-island cotton
+3635,Gossypium hirsutum,cotton
+6999,Gryllus bimaculatus,two-spotted cricket
+4232,Helianthus annuus,common sunflower
+29058,Helicoverpa armigera,cotton bollworm
+3981,Hevea brasiliensis,para rubber tree
+9606,Homo sapiens,human
+4513,Hordeum vulgare,barley
+336126,Hylocereus trigonus,strawberry-pear
+7998,Ictalurus punctatus,channel catfish
+6945,Ixodes scapularis,black-legged tick
+23013,Kalanchoe daigremontiana,devil's backbone
+4236,Lactuca sativa,garden lettuce
+4472,Lemna minor,
+3864,Lens culinaris,lentil
+4006,Linum usitatissimum,flax
+215539,Liriodendron chinense x Liriodendron tulipifera,
+7004,Locusta migratoria,migratory locust
+4521,Lolium multiflorum,Italian ryegrass
+4522,Lolium perenne,perennial ryegrass
+7200,Lutzomyia longipalpis,
+9541,Macaca fascicularis,crab-eating macaque
+74068,Macrosteles quadrilineatus,aster leafhopper
+3750,Malus domestica,apple
+106564,Malus prunifolia,
+283210,Malus pumila,paradise apple
+52837,Mandevilla sanderi,Mexican love vine
+7130,Manduca sexta,tobacco hornworm
+29780,Mangifera indica,mango
+3983,Manihot esculenta,cassava
+3879,Medicago sativa,lucerne
+3880,Medicago truncatula,barrel medic
+10047,Meriones unguiculatus,Mongolian gerbil
+10036,Mesocricetus auratus,golden hamster
+10090,Mus musculus,house mouse
+4641,Musa acuminata,dwarf banana
+89151,Musa paradisiaca,French plantain banana
+63479,Nerium oleander,common oleander
+4100,Nicotiana benthamiana,
+4091,Nicotiana otophora,
+62141,Nicotiana paniculata,
+4096,Nicotiana sylvestris,wood tobacco
+4097,Nicotiana tabacum,common tobacco
+4146,Olea europaea,common olive
+8019,Oncorhynchus kisutch,coho salmon
+8022,Oncorhynchus mykiss,rainbow trout
+8128,Oreochromis niloticus,nile tilapia
+9986,Oryctolagus cuniculus,rabbit
+4530,Oryza sativa,rice
+9940,Ovis aries,sheep
+8255,Paralichthys olivaceus,Japanese flounder
+4031,Pelargonium hortorum,common geranium
+6687,Penaeus monodon,black tiger shrimp
+6689,Penaeus vannamei,Pacific white shrimp
+6978,Periplaneta americana,American cockroach
+3435,Persea americana,avocado
+4043,Petroselinum crispum,parsley
+3885,Phaseolus vulgaris,string bean
+7116,Pieris brassicae,large cabbage white
+90988,Pimephales promelas,fathead minnow
+3339,Pinus contorta,lodgepole pine
+88730,Pinus massoniana,Chinese red pine
+3349,Pinus sylvestris,Scots pine
+3350,Pinus thunbergii,Japanese black pine
+3888,Pisum sativum,pea
+51655,Plutella xylostella,diamondback moth
+43335,Populus alba,xin bai yang
+3690,Populus canadensis,Canadian poplar
+1217306,Populus x beijingensis,
+9310,Potorous tridactylus,long-nosed potoroo
+122118,Prunus americana,goose plum
+36596,Prunus armeniaca,apricot
+42229,Prunus avium,sweet cherry
+3758,Prunus domestica,plum
+3755,Prunus dulcis,almond
+3760,Prunus persica,peach
+22663,Punica granatum,pomegranate
+23211,Pyrus communis,pear
+3767,Pyrus pyrifolia,sha li
+3726,Raphanus sativus,radish
+10116,Rattus norvegicus,Norway rat
+10117,Rattus rattus,black rat
+49838,Retama sphaerocarpa,
+2843217,Rhaphiolepis bibas,loquat
+6941,Rhipicephalus microplus,southern cattle tick
+5537,Rhodotorula mucilaginosa,
+329032,Riptortus pedestris,
+267246,Rosa odorata,tea rose
+4547,Saccharum officinarum,sugarcane
+52904,Scophthalmus maximus,turbot
+4550,Secale cereale,rye
+7048,Sitophilus oryzae,rice weevil
+4108,Solanum chacoense,chaco potato
+856898,Solanum huancabambense,
+4081,Solanum lycopersicum,tomato
+4111,Solanum melongena,eggplant
+73574,Solanum microdontum,
+4082,Solanum peruvianum,Peruvian tomato
+119830,Solanum torvum,turkey berry
+4113,Solanum tuberosum,potato
+28829,Solea senegalensis,Senegalese sole
+4558,Sorghum bicolor,sorghum
+7107,Spodoptera exigua,beet armyworm
+7108,Spodoptera frugiperda,fall armyworm
+7109,Spodoptera littoralis,African cotton leafworm
+62615,Stylosanthes guianensis,stylo
+9823,Sus scrofa,pig
+13708,Tagetes erecta,African marigold
+7067,Tenebrio molitor,yellow mealworm
+3641,Theobroma cacao,cacao
+7070,Tribolium castaneum,red flour beetle
+96903,Trichogaster trichopterus,three spot gourami
+7111,Trichoplusia ni,cabbage looper
+4565,Triticum aestivum,bread wheat
+4566,Triticum aestivum x Triticum timopheevi,
+4571,Triticum turgidum,poulard wheat
+3906,Vicia faba,fava bean
+3917,Vigna unguiculata,cowpea
+29760,Vitis vinifera,wine grape
+163159,Xenopsylla cheopis,oriental rat flea
+69721,Zantedeschia aethiopica,pig-lily
+94108,Zantedeschia elliotiana,
+4577,Zea mays,maize
+326968,Ziziphus jujuba,common jujube
