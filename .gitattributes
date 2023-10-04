@@ -1,0 +1,4 @@
+phicanto_host_species.csv text eol=lf
+phicanto_host_strains.csv text eol=lf
+phicanto_pathogen_species.csv text eol=lf
+phicanto_pathogen_strains.csv text eol=lf
