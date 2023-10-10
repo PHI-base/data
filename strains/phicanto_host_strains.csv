@@ -273,6 +273,7 @@ ncbi_taxid,scientific_name,strain,synonyms,cross_references
 4513,Hordeum vulgare,cv. NB6,,
 4513,Hordeum vulgare,cv. Nigrate,,
 4513,Hordeum vulgare,cv. Odessa,,
+4513,Hordeum vulgare,cv. Optic,,
 4513,Hordeum vulgare,cv. Plaisant,,
 4513,Hordeum vulgare,cv. Sangrok,,
 4513,Hordeum vulgare,cv. Sprout Master,,
@@ -326,10 +327,10 @@ ncbi_taxid,scientific_name,strain,synonyms,cross_references
 10090,Mus musculus,A/JCr,,MGI:6156905
 10090,Mus musculus,A/JJmsSlc,A/JSlc,MGI:2160468
 10090,Mus musculus,A/JUnib,,
-10090,Mus musculus,B6.Cg-Tg(Alb-PLG)1Dgi/J,B6(SJL)-Tg(Alb-PLG)1Dgi/J,MGI:3764459
 10090,Mus musculus,B6;129S7-Dbh<tm1Rpa>/Rpa,,MGI:6389575
 10090,Mus musculus,B6;129X1-Mpeg1<tm1Pod>/Pod,,MGI:6389574
 10090,Mus musculus,B6;SJLJ-Tg(Alb-PLG)1Dgi/Uqah,,MGI:6390159
+10090,Mus musculus,B6.Cg-Tg(Alb-PLG)1Dgi/J,B6(SJL)-Tg(Alb-PLG)1Dgi/J,MGI:3764459
 10090,Mus musculus,BALB,,MGI:5652307
 10090,Mus musculus,BALB/c,"BALB/c-Mx1<s1>, Bagg Albino",MGI:2161072
 10090,Mus musculus,BALB/cBy,"BALB Bailey, BALB/c Bailey, Bagg Albino Bailey, CBy",MGI:2159790
