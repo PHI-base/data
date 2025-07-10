@@ -127,6 +127,7 @@ ncbi_taxid,scientific_name,common_name
 36090,Globodera pallida,
 31243,Globodera rostochiensis,
 5563,Gloeocercospora sorghi,
+62708,Golovinomyces cichoracearum,
 226899,Grosmannia clavigera,
 730,Haemophilus ducreyi,
 727,Haemophilus influenzae,
@@ -149,6 +150,7 @@ ncbi_taxid,scientific_name,common_name
 1639,Listeria monocytogenes,
 71657,Lonsdalea quercina,
 13131,Macrosiphum euphorbiae,potato aphid
+148305,Magnaporthe grisea,
 318829,Magnaporthe oryzae,rice blast fungus
 203908,Melampsora larici-populina,
 5261,Melampsora lini,flax rust
@@ -283,6 +285,7 @@ ncbi_taxid,scientific_name,common_name
 456327,Xanthomonas euvesicatoria,
 56454,Xanthomonas hortorum,
 347,Xanthomonas oryzae,
+442694,Xanthomonas perforans,
 343,Xanthomonas translucens,
 628,Xenorhabdus nematophila,
 2371,Xylella fastidiosa,
